@@ -1,0 +1,1043 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox populi, or, The sense of the sober lay-men of the Church of England concerning the heads proposed in His Majesties commission to the Convocation.</title>
+            <author>Boyse, J. (Joseph), 1660-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 142 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29078</idno>
+            <idno type="STC">Wing B4084</idno>
+            <idno type="STC">ESTC R19826</idno>
+            <idno type="EEBO-CITATION">12115825</idno>
+            <idno type="OCLC">ocm 12115825</idno>
+            <idno type="VID">54299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54299)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox populi, or, The sense of the sober lay-men of the Church of England concerning the heads proposed in His Majesties commission to the Convocation.</title>
+                  <author>Boyse, J. (Joseph), 1660-1728.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randall Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Written in part by the Rev. Joseph Boyse. cf. McAlpin Col.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54299:1" rendition="simple:additions"/>
+            <p>Vox Populi: Or, the SENSE of the SOBER LAY-MEN OF THE <hi>Church of England.</hi> Concerning the HEADS Propoſed in his MAJESTIES COMMISSION TO THE CONVOCATION.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randall Taylor</hi> near <hi>Stationers-hall,</hi> 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:54299:2"/>
+            <head>The Bookseller to the Reader</head>
+            <p>THeſe Papers were ſent to me be<g ref="char:EOLhyphen"/>fore the late Prorogation of the Parliament; but yet I have thought fit to publiſh them, hoping they may be uſeful to the Publick.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:54299:2"/>
+            <head>THE PREFACE.</head>
+            <p>WE pay too great a Deference to ſo venerable an Aſſembly as our <hi>Convocation,</hi> to come before them, tho with a <hi>Petition</hi> in our hands, without making ſome Apology for this ſeeming Rudeneſs, as tho we preſum'd to inſtruct our Teachers, and fancied our ſelves wiſer than our Spiritual Guides. We might plead by way of Excuſe, that a former Convocation not only allowed, but <hi>deſired</hi> more on our behalf than we do pretend to:<note place="margin">Burnet<hi>'s Hiſt. of the Reform.</hi> Vol. 1. p. 147<g ref="char:punc">▪</g>
+               </note> For they ad<g ref="char:EOLhyphen"/>dreſſed to King <hi>Henry</hi> the <hi>8th,</hi> That an equal number of <hi>Lay-men</hi> might be joined to ſome of their own Body, with a full power to ab<g ref="char:EOLhyphen"/>rogate or confirm Canons and Eccleſiaſtical Laws, as to them ſhould ſeem moſt expedient: whereas we do neither preſume nor deſire to ſit among the Clergy as Counſellors, but only to be permitted to ſtand as Supplicants at their door.</p>
+            <p>We might further alledg in our own behalf, that when we lately ven<g ref="char:EOLhyphen"/>tured with our Pens to defend the Doctrines of our Church againſt the Papiſts, in which Controverſy our Learned Clergy gain'd ſuch im<g ref="char:EOLhyphen"/>mortal Trophies of Honour, our Papers were not only kindly recei<g ref="char:EOLhyphen"/>ved, but protected too: Even Dr. <hi>Sherlock</hi> himſelf condeſcending to cover a <hi>Proteſtant Footman</hi> with his mighty Shield, who like a ſmall Squire had ventured to ſtrike a blow or two for the Giant. We are therefore apt to believe, that what we now propoſe for the fur<g ref="char:EOLhyphen"/>ther advantage of our Church, will be as favourably entertain'd. And we are the rather encouraged to ſuch a Perſuaſion, becauſe the <hi>Maſter of the Temple,</hi> notwithſtanding the Canon in this caſe (which ſhall be obſerv'd in its proper Place under that Head) hath lately revo<g ref="char:EOLhyphen"/>ked that <hi>Letter of Attourny</hi> which the Clergy ſeemed to pretend to, for the warranting them alone to act in our Names, while we ſate ſtill and held our Peace. For, ſaith he, <hi>Tho the Clergy have of late in a great meaſure monopoliz'd the Name of the Church to themſelves, yet in propriety of Speech they do not belong to the De<g ref="char:EOLhyphen"/>finition
+<pb facs="tcp:54299:3"/> of it;</hi>
+               <note place="margin">Dr. <hi>Sherlock's</hi> Diſc. of the Na<g ref="char:EOLhyphen"/>ture, <g ref="char:V">Ʋ</g>nity and Communion of the Catholick Church, <hi>p. 32. 34.</hi>
+               </note> 
+               <hi>they are indeed the Governours of the Church, as they have receiv'd Authority from Chriſt the ſupreme Lord and Bi<g ref="char:EOLhyphen"/>ſhop of the Church, but they are no more the Church, than the King is his Kingdom, or the Shepherd his Flock; the Biſhops and Paſtors of the Church, conſider'd as ſuch, repreſent the Head and not the Body,</hi> &amp;c.</p>
+            <p>But that which we ſhall inſiſt on, and ſtand by as the <hi>main Reaſon</hi> of our willing and publiſhing the following Papers, and which we conceive will fully ſilence thoſe that are moſt likely to raiſe a Clamour againſt us, is to clear our ſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s from the inj<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ious Miſrepreſentation that <hi>Vox Cleri</hi>
+               <note place="margin">Vox Cleri p. 11</note> gives of us, as tho we were as perverſe Enemies to his Majeſties excellent Deſign in his Commiſſion to the Convocation as he himſelf is, and thoſe whoſe Judgment he pretends to expreſs: For one of the main Reaſons he urges a<g ref="char:EOLhyphen"/>gainſt all Alterations, is that which he cites out of Dr. <hi>Burnet</hi> in Judg <hi>Hales</hi>'s Life, That <hi>as ſome might come in, ſo others that were in our Communion might take offence by the Alterations, and deſert it; and ſeeing our frequent Chan<g ref="char:EOLhyphen"/>ges in ſome things, might ſuppoſe there is nothing certain among us; and from the many Diſputes about our Liturgy, proceed to queſtion our Articles, and at laſt fall off to the Church of</hi> Rome, <hi>which they ſaw more conſtant to their Prin<g ref="char:EOLhyphen"/>ciples.</hi> And as we ſhall not repeat what hath been already replied, ſo we ſhall take the more effectual way of confuting him, by declaring the common Senſe of the wiſeſt and beſt among our ſelves that we have convers'd with about theſe matters. For tho we pay that Reſpect even to the violent <hi>Bigots</hi> of our Clergy, which the great Learning of many of them does deſerve, yet we muſt beg their Pardon if we are unwilling all the blame of their unaccountable Stiffneſs and Rigour ſhould lie at our door. We ſhould think our ſelves very unhappy, if any unreaſonable Sowrneſs or Humour of ours ſhould be the great Obſtacle to the Churches Reformation and Peace: If we ſhould any way contribute to the keeping open thoſe bleeding Wounds which our Spiritual Phyſicians are called together to heal and cloſe. We that have been ſo well inſtructed by our Miniſters, have learnt to diſtinguiſh between the Subſtance of our Religion, and the ſeparable Appendages of it; and ſhall not ſuſpect a change of our Food every time the mode of garniſhing the Diſh is altered; and have more of that Divine Charity they have preached to us than to ſtand at an irreconcileable Diſtance from Diſſenting Proteſtants, and to run both out of the Church and our Wits too, if the <hi>Convocation</hi> ſhould think fit to let them in on an ho<g ref="char:EOLhyphen"/>nourable Accommodation of our Differences. We have therefore thought fit to deſcend to the particular Heads mentioned in his Majeſties Commiſſion, and under each of them to propoſe ſuch Alterations as would not only not be offenſive to us, but are highly deſirable, becauſe we ſuppoſe them equally conducive to the Beauty and Safety, the Strength and Glory of our Church.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <div type="part">
+               <pb n="1" facs="tcp:54299:3"/>
+               <head>Of the <hi>Liturgy</hi> and <hi>Ceremonies.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>O begin with the Calendar; we ſhall not inſiſt on the Rule to find out <hi>Eaſter,</hi> which hath been ſometimes found not to be true, becauſe that does more concern the <hi>Clergy</hi> to look after, than any of us: But as to ſome of the Leſſons appointed in it, they being deſign'd for our Edification, we hope we may have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ib<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty to ſpeak. What a <hi>ſmutty</hi> Story is that in the 6th, 7th, and 8th Chapters of <hi>Tobit,</hi> appointed for the Leſſons on the laſt day of <hi>September,</hi> and the firſt of <hi>Auguſt,</hi> which is enough to make a Man laugh till he <hi>burſt,</hi> as certainly as the lumps of Pitch, Fat, and Hair, did the <hi>Dragon</hi> (Another precious Story, which not being appointed formerly by our Church, was by the <hi>New Reformers</hi> on the late Kings Reſtauration, ordered to be read to us on the 23d of <hi>November</hi>). The buſineſs in ſhort, is this, <hi>Tobias</hi> luckily catcht a certain Fiſh, that greedily ſnapt at him,<note place="margin">
+                     <hi>Tobit</hi> c. 6.</note> Roaſted it, and Eat it; but by the Direction of the Angel, very carefully lays up the Heart, the Liver, and the Gall. Now an Ointment made of this Gall, was a notable Remedy againſt <hi>Whiteneſs</hi> in the Eyes. If it were as good againſt <hi>Dimneſs</hi> of Sight too, we could wiſh for the ſake of the Author of <hi>Vox Cleri,</hi> we knew what ſort of Fiſh this was.<note place="margin">
+                     <hi>Tobit</hi> c. 7.</note> But a far greater Vertue lay in the Liver, and the heart as <hi>Tobias</hi> afterwards found, when he came to the Houſe of <hi>Raguel.</hi> For this <hi>Raguel</hi> had a <hi>Bonny</hi> Girl to his Daughter, called <hi>Sarah,</hi> on whom it ſeems a certain ſpiteful De<g ref="char:EOLhyphen"/>vil had clapt a ſort of a <hi>Venetian Pad-lock;</hi> ſo that tho ſeven young Fellows had ſucceſſively Married her, yet none of them had been able to <hi>Conſummate the Buſineſs,</hi> but loſt their own Lives the very firſt Night they made any offers that way. <hi>Tobias</hi> was deeply ſmitten with her, and not diſcouraged for all this, in ſhort, makes up the Bargain and Marries her.<note place="margin">
+                     <hi>Tobit</hi> c. 8.</note> And juſt before he Beds her, takes the aforeſaid Heart and Liver of the Fiſh, and burns them upon the Coals, which made ſuch a perfume, that away ſcours the Devil into the utmoſt parts of <hi>Egypt;</hi> and ſo <hi>Tobias</hi> and <hi>Sarah</hi> very comfortably enjoy each other. The Au<g ref="char:EOLhyphen"/>thor of <hi>Vox Cleri</hi> hath a peculiar Crotchet of his own, of read<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:54299:4"/> ſome Portions out of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Church, for the further enlightning our Underſtanding. And why not the <hi>Arcadian Prayer</hi> in the ſame Book for the furthering of our Devo<g ref="char:EOLhyphen"/>tions? To carry on the Humour, we humbly move, that we may be in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tructed out of another Royal Paper; That the ſame day, on which this Story out of <hi>Tobit</hi> is read to us, the other Leſſon to make them both of a piece, may be the late <hi>Depoſitions about the pre<g ref="char:EOLhyphen"/>tended Prince of</hi> Wales.</p>
+               <p>The <hi>Gloria</hi>
+                  <note n="*" place="margin">The frequent Repetition of this, is one of thoſe things which A. B. <hi>
+                        <g ref="char:V">Ʋ</g>ſher,</hi> Bp. <hi>Williams, Prideaux,</hi> and <hi>Brownrig,</hi> Dr. <hi>Ward, Featly,</hi> and <hi>Hacket</hi> took notice of, and would have conſider'd, whether it were not fit to be amended. See the Copy of the Proceedings of theſe Divines touching Innovations, <hi>&amp;c.</hi> and Con<g ref="char:EOLhyphen"/>ſiderations on the Common-Prayer Book, <hi>p.</hi> 7.</note> 
+                  <hi>Patri</hi> is ſometimes ſaid, for Inſtance on the firſt day of the Month, five times at the end of the <hi>Pſalms</hi> read for the Morning-Service; again, at the end of the the Lords Prayer after the Abſolution; a<g ref="char:EOLhyphen"/>gain, at the end of the 95th <hi>Pſal. O come let us Sing,</hi> &amp;c. again, at the end of the <hi>Be<g ref="char:EOLhyphen"/>nedicite;</hi> again, at the end of <hi>Benedictus;</hi> and again, in the Litany; that is ten times in the ordinary Morning-Service.</p>
+               <p>The <hi>Lords Prayer</hi> is ſaid once at the end of the Abſolution; again, after the Apoſtles Creed; again, in the Litany; and again, in the beginning of the Communion-Service; and again, in the ſecond part of the Communion-Ser<g ref="char:EOLhyphen"/>vice; and again, in the Pulpit before Sermon; ſo that 'tis re<g ref="char:EOLhyphen"/>peated five times every <hi>Sunday</hi> Morning conſtantly, and ſix if there be a Communion.</p>
+               <p>Not to ſpeak of the <hi>Kyrie Eleeſons,</hi> nor of all the Congregati<g ref="char:EOLhyphen"/>ons, even <hi>Women</hi> too, ſaying after the Miniſter with a loud Voice, nor of their alternate reading the Verſes of the Pſalms, for which later, we don't find any Rubrick; all which ſeem to make ſuch a confuſed Babling, that we can hardly reconcile it to the Apoſtles Diſcouſe in the firſt Epiſtle to <hi>Corinth.</hi> and 14th <hi>Chapter;</hi> and make a Man think he were in <hi>Dover-Court,</hi> rather than a <hi>Chriſtian Aſſembly.</hi>
+               </p>
+               <p>
+                  <hi>Good Lord deliver us,</hi> is repeated eight times in the Litany; and <hi>We beſeech thee to hear us good Lord,</hi> no leſs than two and twenty times in the ſame.</p>
+               <p>We can't but on this Occaſion ſometimes reflect on that wiſe Doctor at <hi>Oxford,</hi> who when he met with a little good way, was wont after he had once travell'd over it, to turn about his Horſe, and ſay, <hi>'Tis ſo good, let's go this over again.</hi>
+               </p>
+               <pb n="3" facs="tcp:54299:4"/>
+               <p>This hath a ſemblance of thoſe <hi>vain Repetitions</hi> forbidden by our Saviour; and when we reproach the Fanaticks for their Tautologies in Prayer, they immediately flap us in the mouth with this; and we profeſs ſincerely we are not able to reply up<g ref="char:EOLhyphen"/>on them.</p>
+               <p>Moſt of the <hi>Coll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts</hi> have but <hi>one</hi> Petition in them. Were ſeve<g ref="char:EOLhyphen"/>ral of our ſhort Prayers well digeſted into one, we humbly con<g ref="char:EOLhyphen"/>ceive it would be like the uniting of the little Sparkles of Heaven into a conſtellation that renders them the more conſpicuous. And were the whole Service ſomewhat ſhortned, and ſo room left for Free-Prayer, and encouragement given to it, we que<g ref="char:EOLhyphen"/>ſtion not but our Learned Clergy would immediately exceed any of the Diſſenters in that way, and greatly edify us. For not to examine what hath been urged on both ſides, we will take the Learned Dr. <hi>Stillingfleet</hi>'s Opinion for true, <q>That this was an Invention of the <hi>Jeſuits:</hi> yet we know they are cun<g ref="char:EOLhyphen"/>ning Fellows; 'tis a very popular thing; it takes wonderfully; <hi>&amp; fas eſt &amp; ab hoſte doceri.</hi>
+                  </q>
+               </p>
+               <p>We are of that Gentleman's mind, who ſaid,<note place="margin">
+                     <hi>Character of a Trimmer,</hi> by Sir <hi>W. C.</hi> a Lay Gentle<g ref="char:EOLhyphen"/>man of our Church, <hi>p</hi> 20.</note> 
+                  <q>There may be too great a reſtraint put on Men whom God and Nature hath diſtinguiſhed from their Fellow-labourers, by bleſſing them with a happier Talent; and by giving them not only good Senſe, but a powerful Utterance too, hath enabled them to guſh out on the Attentive Auditory with a mighty ſtream of devout and unaffected Eloquence; when a Man qualified, en<g ref="char:EOLhyphen"/>dued with Learning too, and above that, adorn'd with a good Life, breaks out into a warm and well-deliver'd Prayer before his Sermon, it hath the appearance of a Divine Rap<g ref="char:EOLhyphen"/>ture, he raiſeth and leadeth the hearts of the Aſſembly in ano<g ref="char:EOLhyphen"/>ther manner than the moſt compoſed or beſt ſtudied form of ſet words can ever do; and the <hi>Pray-wees</hi> would look like ſo many Statues, or Men of Straw, in the Pulpit, com<g ref="char:EOLhyphen"/>par'd with thoſe who ſpeak with ſuch a powerful Zeal, that men are tempted at the moment to believe Heaven it ſelf hath directed their words to them.</q>
+               </p>
+               <p>Herein we confeſs we don't expect the concurrence of the Au<g ref="char:EOLhyphen"/>thor of <hi>Vox Cleri,</hi> who hath an aking Tooth at Lectures and Ser<g ref="char:EOLhyphen"/>mons too, as well as, no doubt, a mighty ſpleen at this Free-prayer, and would have all the publick Miniſtrations to conſiſt in reading Liturgies and Homilies; And then if God Almighty
+<pb n="4" facs="tcp:54299:5"/> would but ſend a man a good pair of Eyes, or in caſe he don't do that, a <hi>Feſcue, and a pair of Spectacles,</hi> he might e'en keep <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Gifts of his Spirit</hi> to himſelf, for any n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed that a Clergy-man may have of them.</p>
+               <p>We could wiſh for the ſake of the <hi>Greek</hi> Churches, that the ſevere Clauſes in the <hi>Athanaſian Creed</hi> were expunged; for tho we believe all the Articles of Faith contained in it, yet we think it no more becomes us to <hi>damn</hi> Folks in the Church, and at Di<g ref="char:EOLhyphen"/>vine Service, than in the Streets, and in common Diſcourſe.</p>
+               <p>We think it very odd, that <hi>Te Deum, Benedicite,</hi> the <hi>Pſalms</hi> in Proſe, and the Three Creeds, ſhould be appointed to be SUNG or ſaid. The <hi>Leſſons</hi> in the Old Common Prayer-Book were order'd to be <hi>Sung in a plain Tune.</hi> That is reform'd, and they are now appointed to be read <hi>diſtinctly with an audible voice.</hi> And is there not the ſame reaſon for the other two? Were this <hi>cant<g ref="char:EOLhyphen"/>ing</hi> way laid aſide, we might then have the Pſalms in the <hi>New</hi> Tranſlation; for 'tis for the ſake of their being <hi>point<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> to be SUNG or ſaid, that though in ſome places it be <hi>corrupt,</hi> and in others hath ſeveral Verſes that are not in the Original, but the <hi>Septuagint</hi> only, the <hi>old</hi> one is ſtill retained.</p>
+               <p>We have known ſome Men that have riſen from the Dunghil to a great fortune; who have <hi>hung up</hi> their <hi>Leathern Breeches</hi> as a Monument of their former low Circumſtances; but not that they uſed to <hi>ſanter</hi> and <hi>trudg</hi> up and down in them as <hi>Ornaments,</hi> when they had a Pair of freſh <hi>Silk</hi> ones lying by them.</p>
+               <p>We could wiſh thoſe two Rubricks in the Communion Ser<g ref="char:EOLhyphen"/>vice were review'd; the firſt of which directs the Curate to <hi>ſtand at the North-ſide</hi> of the Table, when he ſaith the <hi>Collect</hi> and the <hi>Lord's Prayer;</hi> and the ſeccond immediately after directs him to <hi>turn to the People, and rehearſe diſtinctly</hi> all the Ten Commandments. We humbly conceive, did the Curate look the ſame way when he reads the <hi>Collect</hi> and <hi>Lord's Prayer,</hi> as he doth when he reads the <hi>Commandments;</hi> or rather, were both of them read in the Desk where the other Prayers are, eſpecially in great Churches, we might then be able to <hi>hear</hi> him, which now many times we can't, and conſequently are no more edified than by the <hi>Muſic of the Spheres.</hi>
+                  <note place="margin">See the <hi>Rubric</hi> about reading the Leſſons.</note> When the <hi>Leſſons</hi> are read, the Curate is order'd <hi>ſo to ſtand and turn himſelf, as he may be beſt heard of all ſuch as are preſent.</hi> The reaſon is the ſame in both Caſes. This we find reckon'd by thoſe great Lights of our Church, formerly mention'd, among
+<pb n="5" facs="tcp:54299:5"/> the Innovations,<note place="margin">Id. ut ſupr. <hi>p. 5.</hi>
+                  </note> the reading <hi>ſome part of the Morning Prayer at the H. Table when there is no Communion.</hi> Nor can we be ſatisfied with what is uſually ſaid in defence of this Practice, That 'tis <hi>to put the people in mind that they ſhould celebrate the Communion every Sunday.</hi> In the Name of God, what need is there of ſuch <hi>dumb ſigns</hi> to in<g ref="char:EOLhyphen"/>ſtruct us in our Duty, which are ſo contrary to Edification, when we have ſo many Excellent and Learned Men, who can and ought to do it to much better purpoſe in their frequent, Eloquent and Pious Sermons out of the Pulpit? Muſt ſuch <hi>Motions,</hi> as well as <hi>Pictures,</hi> be <hi>Lay-mens Books?</hi>
+               </p>
+               <p>For our Childrens ſake, we could wiſh that the Order of <hi>Confir<g ref="char:EOLhyphen"/>mation</hi> were not made a matter of meer Form and Ceremony; that it were carefully look'd to, not only that they be able to <hi>ſay</hi> the <hi>Creed, Lord's Prayer,</hi> and <hi>Ten Commandments,</hi> and to <hi>anſwer</hi> the Queſtions in the <hi>Catechiſm,</hi> but that they <hi>underſtand</hi> them too; to this end, that the <hi>Rubric,</hi> which ſo rarely well enjoins the Curate diligently to catechiſe the younger ſort, and then either to bring them, or at leaſt <hi>ſend in Writing<g ref="char:punc">▪</g> with his hand ſubſcribed thereunto, the Names of all ſuch perſons in his Pariſh as he ſhall think it to be pre<g ref="char:EOLhyphen"/>ſented to the Biſhop to be Confirmed,</hi> may be reinforced and obſerved, that ſo thoſe that are notoriouſly ſcandalous, or groſly ignorant <hi>what their Godfathers and Godmothers promiſed for them in Baptiſm, and which now with their own Mouth and Conſent they are openly before the Church to ratifie and confirm,</hi> may not be admitted to it.</p>
+               <p>'Tis certainly no fault in our Conſtitution, but there is a great one in thoſe who do not act according to it that ad<g ref="char:EOLhyphen"/>mit many who have as little underſtanding of the Baptiſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Covenant when Hands are laid, as when Water was poured upon them. And we could wiſh ſome of our Spiritual Fathers would ſhew us by what warrant theſe words are uſed in the Collect for that Service.— <hi>On whom, after the example of thy holy Apoſtles, we have now laid our hands, <hi>to certifie them by this ſign of thy Fa<g ref="char:EOLhyphen"/>vour, and Gracious Goodneſs towards them.</hi>
+                  </hi> And that they may be diligently compared with our Churches Definition of a <hi>Sacrament.</hi>
+               </p>
+               <p>We could wiſh thoſe paſſages in the Burial of the Dead were review'd, <hi>viz. Foraſmuch as it hath pleaſed Almighty God, to take to himſelf the Soul of our dear Brother here Departed,</hi> &amp;c. We give thee hearty thanks for <hi>that it hath pleaſed thee to deliver this our
+<pb n="6" facs="tcp:54299:6"/> Brother out of the miſeries of this ſinful World. —That we may reſt in him</hi> (viz. Chriſt) <hi>as our hope is this our Brother doth.</hi> We do not enquire how the Clergy can read this over all Dead men that are not either Excommunicated, Unbaptized, or have not laid violent hands on themſelves. Tho we could wiſh men that are ſo charitable to the dead, would be ſo to the living too. But we too often accompany the Corps of a drunken, debaucht neighbour of ours; who lived all his days in the habitual pra<g ref="char:EOLhyphen"/>ctice of many deadly ſins, and gave no ſigns of Repentance that we could ever hear of; it may be the fatal arrow ſtruck through him while he was in the very act of ſome foul ſin. The Grave cannot ſtrike a colder damp on our bodies, than the thoughts of this doth on our Devotions; and we can no more ſay <hi>Amen</hi> on ſuch occaſions, than the dead man himſelf, on whoſe Funeral we attend. 'Tis true indeed, we are told that theſe words do ſuppoſe the <hi>ſtrict exerciſe of Diſcipline.</hi> But as long as we ſee no ſuch thing, 'tis an <hi>Hypotheſis</hi> that gives us no relief at all.</p>
+               <p>And ſeeing we are fallen on the <hi>Diſcipline</hi> of the Church, we do moſt humbly and earneſtly beſeech our Spiritual Fathers and Guides, that they would at laſt try their utmoſt for the ſetting of it up, that we may not be told from year to year, as we are in our <hi>Aſhwedneſday</hi> Service, that there WAS anciently in the Church a <hi>godly Diſcipline</hi> of putting notorious Sinners to open Penance, which we only <hi>wiſh</hi> were reſtored, but confeſs it is not. And we think that which our Church hath ſet up in the room of it, deſerves a little Conſideration; <hi>viz.</hi> the reading the general Sentences of God's Curſing againſt impenitent Sinners, out of <hi>Deut.</hi> 27. and other places of Scripture, to which we are all required to anſwer and ſay <hi>Amen.</hi>
+               </p>
+               <p>Now ſuppoſe any man hath a near relation that is unmerciful, a Fornicator, an Adulterer, a Covetous perſon, an Idolater, Slanderer, Drunkard, for the Curſe is pronounced againſt all theſe: Or ſuppoſe our <hi>King</hi> ſhould be guilty of any of theſe crimes, as ſome of them were within the memory of man, we ſhould be loth to ſay <hi>Amen,</hi> or <hi>So be it,</hi> to ſuch a Curſe. We have often heard the men of the <hi>Scotch Kirk</hi> reproach'd ſeverely for the Excommunicating of Kings. A <hi>David</hi> may take another man's Ewe-Lamb; and it would be well if a <hi>Nathan</hi> would bring him to a ſenſe of that horrible ſin by a parable, and by a
+<pb n="7" facs="tcp:54299:6"/> particular application of a <hi>Thou art the man.</hi> But for every one of us of the Laity to pronounce an <hi>Amen</hi> to a ſolemn Curſe de<g ref="char:EOLhyphen"/>nounced againſt all ſuch Offenders, and them among the reſt, tho in the ſelf-ſame Service we ſtile them <hi>our moſt Religious and Gracious ones,</hi> and that in the Church too, don't look like that Reverence we have been taught to bear towards <hi>Crowned Heads.</hi> True indeed, the <hi>Iſraelites</hi> once did pronounce ſeveral of theſe Curſes on Mount <hi>Ebal,</hi> with an <hi>Amen;</hi> but this was by virtue of an expreſs Command from God; and this might be ſuitable enough to a <hi>Legal Spirit,</hi> to the rough and ſowre diſpenſation of the Law, but not to the calm, kind, and peaceable <hi>Inſtitution of the Goſpel,</hi> which is ſoft and gentle, as the wings of that Dove that lighted on the head of him who was the Author of it.</p>
+               <p>Having conſider'd the Liturgy, we proceed to take notice of thoſe <hi>Rites and Ceremonies</hi> of our Worſhip, which His Majeſty hath <hi>join'd with it, and concerning which, he ſays, That being things in their own nature indifferent, and alterable, and ſo acknowledged, it is but reaſonable, that upon weighty and important Conſiderations,</hi> &amp;c.</p>
+               <p>Now it being confeſs'd on all hands, that they are things al<g ref="char:EOLhyphen"/>terable and indifferent in their own nature, we are all of us of the mind, that many unanſwerable Reaſons may be urg'd for their utter removal, and their being totally laid aſide; ſuch as are the dangers and hazards to which they have already expos'd our Church, the fatal Diviſions, the unnatural and implacable animoſities they have occaſioned, and continue to foment; the obligations that we lie under from the Commands and Exam<g ref="char:EOLhyphen"/>ples of Chriſt and his Apoſtles, to yield in things of ſo ſmall mo<g ref="char:EOLhyphen"/>ment to the invincible ſcruples, and the earneſt importunities of our weaker Brethren, as well as many others that have been al<g ref="char:EOLhyphen"/>ledged and inforced by many Learned Pens. We cannot tell how to excuſe the conduct of thoſe perſons, who, notwithſtanding all the reſpect they owe to a Gracious Prince, their Duties to God and their ſcrupulous fellow-Chriſtians, will evidently lay open both the Church and State to an unavoidable Ruin, rather than depart from the Impoſition and Uſe of ſuch Rites, no more than we could have juſtified St. <hi>John</hi> the Baptiſt, if he had fallen a Sa<g ref="char:EOLhyphen"/>crifice to the fury of <hi>Herod,</hi> meerly becauſe he would not admi<g ref="char:EOLhyphen"/>niſter Baptiſm without his <hi>Raiment of Camel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir</hi> and his <hi>leathern Girdle.</hi> We cannot blame the Piety and Wiſdom of our firſt Re<g ref="char:EOLhyphen"/>formers, who introduced and continued theſe, to avoid throwing
+<pb n="8" facs="tcp:54299:7"/> the Nation, that was then over-run with Superſtition, into great and deadly Convulſions: but ſince theſe reaſons are now ceas'd, and very diſmal inconveniences do attend their preſent uſe, we do think it better to throw them by, than retain them.</p>
+               <p>It was neceſſary, that when our Church firſt roſe out of the Superſtition, Darkneſs and Idolatry, in which ſhe had been ſo long buried, ſhe ſhould like <hi>Lazarus</hi> have ſome of the <hi>Grave-cloaths</hi> a<g ref="char:EOLhyphen"/>bout her; but if out of ſome odd Humour ſhe ſhould reſolve ſtill to wear them, ſhe would appear not only unlovely, but ridiculous. But leſt we ſhould ſeem to puſh this matter too far, we ſhall on<g ref="char:EOLhyphen"/>ly ſay, That it is highly requiſite that the uſe of them ſhould be left indifferent; that a ſtrict Uniformity in theſe Rites is no lon<g ref="char:EOLhyphen"/>ger neceſſary, provided there be an Agreement in all the Eſſen<g ref="char:EOLhyphen"/>tials of her Doctrine and Worſhip; and there are many Grounds that move us to inſiſt on this; <hi>viz.</hi> that they are but trivial things, and of no moment; that they neither add any real De<g ref="char:EOLhyphen"/>cency and Beauty to our Worſhip, nor render it more acceptable and pleaſing to God; beſides, there are many Perſons in our Communion, who are weary of them; and many others who frequent our Churches, that do either deſpiſe or ſmile at our rigorous inſiſting upon them;<note place="margin">P. 20. 22.</note> for as the Letter concerning the Convocation well ſays, The number of thoſe who are addicted to them, is not very great; and the greateſt part of the Nati<g ref="char:EOLhyphen"/>on, are ſuch as are not over-zealous, and fond of them, but might by the Method we offer, be more firmly fixed to us. There is a Body of Men who are ſtill among us, and attend in our Churches, and at our Sacraments, who do think our preſent Conteſts about theſe matters, to be much like that, which we about <hi>London</hi> ſaw managed between the Ladies and the <hi>Mobile</hi> about <hi>Top-knots;</hi> the Rabble deſign'd to force them to lay them aſide by Ballads, Pi<g ref="char:EOLhyphen"/>ctures, and inſolent Jeers; but that S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x which uſes to conquer by their Charms, got the Victory now by Obſtinacy and Reſo<g ref="char:EOLhyphen"/>lution, and the poor <hi>Top-knots</hi> have outlived their fury. While we ſaw no prejudices ariſe to the Nation, this afforded us a plea<g ref="char:EOLhyphen"/>ſant diverſion; but had the diſpute run ſo high as to endanger an univerſal Mutiny and Inſurrection, we ſhould have commended <hi>that Sex,</hi> if they had prudently thrown them off, and quitted the Field.</p>
+               <p>We do therefore judge, That ſuch things as theſe ſhould no longer be impoſed as terms of our Communion, and ſuch as will
+<pb n="9" facs="tcp:54299:7"/> not ſubmit to them may be eſteemed as genuine Sons of our Church, as thoſe that do; that this is a Seaſon wherein theſe latter ſhould be allowed as free an acceſs to our Altars and Fonts as the other; and that it is a condeſcention which we owe not only to our Bleſſed Saviour, and thoſe weak Diſciples which he hath ſo tender a concern for but to the Safety and Honour of our Church, as well as her preſent Conſtitution.</p>
+            </div>
+            <div type="part">
+               <head>Of the <hi>Canons.</hi>
+               </head>
+               <p>SInce the conſideration of the greateſt part of 'em will fall un<g ref="char:EOLhyphen"/>der the following Heads in His Majeſty's Commiſſion, we ſhall confine theſe Remarks to a few of 'em that cannot be ſo conve<g ref="char:EOLhyphen"/>niently rang'd under thoſe Particulars.</p>
+               <p>The firſt Canon enjoins the maintaining the <hi>King's Supremacy</hi> over the Church of <hi>England</hi> in Cauſes Eccleſiaſtical,<note place="margin">Can. 1.</note>
+               </p>
+               <p>And as that Canon declares all Foreign Power <hi>(foraſmuch as the ſame has no eſtabliſhment by the Law of God)</hi> to be juſtly taken away and aboliſh'd; ſo that Doctrine ſhould in all reaſon be diſ<g ref="char:EOLhyphen"/>own'd and cenſur'd, which ſo many Divines of our Church have endeavoured to def<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd and propagate in their publick Writings, <hi>viz.</hi> 
+                  <q>That the <hi>Church <g ref="char:V">Ʋ</g>niverſal</hi> ought to be governed by the Decrees of General Councils; and during the interval of ſuch Councils, the only way of Concord is to obey the Governing Part of the Univerſal Church, <hi>viz.</hi> All the Biſhops in one Re<g ref="char:EOLhyphen"/>gent College, governing the whole Chriſtian World, <hi>per li<g ref="char:EOLhyphen"/>teras formatas.</hi>
+                  </q> Eſpecially when, on pretence of the eaſier Execu<g ref="char:EOLhyphen"/>tion of theſe Univerſal Laws, ſome of 'em have been ſo liberal to his <hi>Holineſs,</hi> as to aſſign that Province to him of Patriarch of the Weſt, and the Centre of Unity to this part of the Catholick Church. And how much all the fierceneſs of Archbiſhops <hi>Laud</hi> and <hi>Bramhall,</hi> Dr. <hi>Heylin,</hi> Biſhops <hi>Morley, Gunning,</hi> and <hi>Sparrow,</hi> Dr. <hi>Saywell,</hi> Mr. <hi>Dodwell, &amp;c.</hi> againſt all Diſſenters at home, and their ſtrange chilneſs to the Reformed Churches abroad, is owing to a miſerable fondneſs for this Notion, as the hopeful ground of a Reconciliation between the Church of <hi>England</hi> and the <hi>French</hi> Church that has caſt off the Papal Infallibility, it were no difficult Task to ſhew, and were worthy the Obſervation of any Hiſtorian that would give a true Account of the continuance and increaſe of our deplorable Diviſions. And as we diſlike this
+<pb n="10" facs="tcp:54299:8"/> Notion the more when we conſider the purpoſes and deſigns for which 'tis calculated, ſo we have this Argument to urge why it ſhould be diſown'd, <hi>viz.</hi> Becauſe it plainly ſets up a Foreign Ju<g ref="char:EOLhyphen"/>riſdiction, againſt which the Nation is ſolemnly ſworn.</p>
+               <p>The ſecond Canon excommunicates <hi>ipſo facto</hi> all Impugners of the King's Supremacy.</p>
+               <p>Ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inſt which we think there is nothing can be objected but the fault common to it with the 10 following Canons, <hi>viz.</hi> Ex<g ref="char:EOLhyphen"/>communicating <hi>ipſo facto.</hi>—Of which more under theſe fol<g ref="char:EOLhyphen"/>lowing Canons.</p>
+               <p>Can. 3. <hi>Whoſoever ſhall hereafter affirm, That the Church of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>by Law eſtabliſhed under the King's Majeſty, is not a true and Apo<g ref="char:EOLhyphen"/>ſtolical Church, teaching and maintaining the Doctrine of the Apoſtles; Let him be excommunicated</hi> ipſo facto, <hi>and not reſtored but only by the Archbiſhop, after his Repentance, and publick Revocation of ſuch his wicked Error.</hi>
+               </p>
+               <p>Can. 4. <hi>Whoſoever ſhall hereafter affirm, That the Form of God's Worſhip in the Church of</hi> England <hi>eſtabliſhed by Law, and contained in the Book of</hi> Common-Prayer and Adminiſtration of Sacraments, <hi>is a corrupt, ſuperſtitious, or unlawful Worſhip of God, or contains any thing in it repugnant to the Scriptures; Let him be excommunicated</hi> ipſo facto.</p>
+               <p>Can. 5. <hi>Whoſoever ſhall hereafter affirm, That any of the</hi> 39 Ar<g ref="char:EOLhyphen"/>ticles <hi>agreed upon by the Archbiſhops and Biſhops of both Provinces, and the whole Clergy, in the Convocation holden at</hi> London 1562, &amp;c. <hi>are in any part ſuperſtitious or erroneous, or ſuch as he may not with a good Conſcience ſubſcribe unto; Let him be excommunicate</hi> ipſo facto.</p>
+               <p>Can. 6. <hi>Whoſoever ſhall hereafter affirm, That the Rites and Cere<g ref="char:EOLhyphen"/>monies of the Church of</hi> England <hi>by Law eſtabliſh'd, are Wicked, Anti<g ref="char:EOLhyphen"/>chriſtian, or Superſtitious; or ſuch as being commanded by lawful Au<g ref="char:EOLhyphen"/>thority, men who are zealouſly and godly affected, may not with any good Conſcience approve 'em, uſe 'em, or, as occaſion requires, ſubſcribe to 'em; Let him be excommunicate</hi> ipſo facto.</p>
+               <p>Can. 7. <hi>Whoſoever ſhall hereafter affirm, That the Government of the Church of</hi> England <hi>under His Majeſty by Archbiſhops, Biſhops, Deans, Archdeacons, and the reſt that bear Office in the ſame, is Antichriſtian, or repugnant to the Word of God; Let him be excommunicate,</hi> &amp;c.</p>
+               <p>Can. 8. <hi>Whoſoever ſhall hereafter affirm or teach, That the form and manner of making and conſecrating Biſhops, Prieſts, and Deacons, contains any thing in it repugnant to the Word of God; or that they who are made Biſhops,</hi> &amp;c. <hi>Let him be excommunicate</hi> ipſo facto.</p>
+               <pb n="11" facs="tcp:54299:8"/>
+               <p>Can. 9. <hi>Whoſoever ſhall hereafter ſeparate themſelves from the Com<g ref="char:EOLhyphen"/>munion of Saints, as 'tis approved by the Apoſtles Rules in the Church of</hi> England, <hi>and combine themſelves together in a new Brotherhood,</hi> &amp;c. <hi>Let him be excommunicate</hi> ipſo facto.</p>
+               <p>Can. 10. <hi>Whoſoever ſhall hereafter affirm, That ſuch Miniſters as refuſe to ſubſcribe to the form and manner of God's Worſhip in the Church of</hi> England, <hi>preſcribed in the Communion-book, may truly take to 'em the Name of another Church not eſtabliſhed by Law, and dare preſum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to publiſh it, That this their pretended Church has of long time groan'd under the burden of certain grievances impoſed upon it, and upon the Members thereof before mentioned, by the Church of</hi> England, <hi>and the Orders and Conſtitutions therein by Law eſtabliſhed; Let him be excom<g ref="char:EOLhyphen"/>municate</hi> ipſo facto.</p>
+               <p>Can. 11. <hi>Whoſoever ſhall hereafter affirm or maintain, That there are within this Realm other Meetings, Aſſemblies, or Congregations, of the King's born Subjects, than ſuch as by the Laws of this Land are held and allowed, which may rightly challenge to themſelves the Name of true and lawful Churches; Let him be excommunicate,</hi> &amp;c.</p>
+               <p>Can. 12. <hi>Whoſoever ſhall hereafter affirm, That 'tis lawful for any ſort of Miniſters or Lay-perſons, or either of them, to join together, and make Rules, Orders, or Conſtitutions in Cauſes Eccleſiaſtical, without the King's Authority, and ſhall ſubmit themſelves to be ruled and govern<g ref="char:EOLhyphen"/>ed by them; Let him be excommunicate</hi> ipſo facto.</p>
+               <p>To theſe may be added,</p>
+               <p>Can. 139. <hi>Whoſoever ſhall hereafter affirm, That the Sacred Synod of this Nation, in the Name of Chriſt, and by the King's Authority aſ<g ref="char:EOLhyphen"/>ſembled, is not the true Church of</hi> England <hi>by repreſentation,; Let him be excommunicate,</hi> &amp;c.</p>
+               <p>Can. 140. <hi>Whoſoever ſhall hereafter affirm, That no manner of perſon either of the Clergy or Laity, not being themſelves particularly aſſembled in the ſaid Sacred Synod, are to be ſubject to the Decrees thereof, in Cauſes Eccleſiaſtical (made and ratified by the King's Majeſty's Su<g ref="char:EOLhyphen"/>preme Authority) as not having given their voices to them; Let him be excommunicate,</hi> &amp;c.</p>
+               <p>Can. 141. <hi>Whoſoever ſhall hereafter affirm, That the Sacred Synod aſſembled as aforeſaid, was a Company of ſuch perſons as did conſpire together againſt godly and religious Profeſſors of the Goſpel; and that therefore both They, and their Proceedings in making of Canons and Con<g ref="char:EOLhyphen"/>ſtitutions in Cauſes Eccleſiaſtical, by the King's Authority as aforeſaid, ought to be deſpiſed and contemned, the ſame being ratified by the ſame Regal Power; Let him be excommunicate,</hi> &amp;c.</p>
+               <pb n="12" facs="tcp:54299:9"/>
+               <p>We have often heard our Clergy mention among many other Excellencies of our Church, her admirable Charity towards thoſe that differ from her; and we have hitherto taken it for one of her juſt Characters. For tho thoſe that diſſent from us, would frequently object the Severity of the Penal Laws, and the rigor with which they have ſometimes been Executed, as if ſuch heavy Fines, and long Impriſonments, look'd but like a cold and frozen ſort of Charity, yet we thought it a ſufficient Anſwer, That <hi>our Church</hi> did not Countenance any of theſe Severities by her Doctrine. And therefore, how active ſoever ſome of our fiery Zealots (who were the Tools of another Party) might be in urging the Execution of them, this was their perſonal Fault, and nor juſtly imputable to the Church her ſelf. Tho, by the way, we cannot think it ſo ingenuous in ſome of our Clergy, to throw all the blame of thoſe ſevere Laws on the Parliament that En<g ref="char:EOLhyphen"/>acted them, which many of themſelves were but too earneſt and importunate Sollicitors of. But we are extreamly ſurprized to read the foregoing Canons, and when we hear them objected as an Evidence of the Uncharitableneſs of our Doctrine it ſelf; We are at a great loſs, what to ſay in defence of it; for we plainly perceive by them, that the Practice of our moſt violent Bigots in the Execution of the Penal Laws, has been as much more Cha<g ref="char:EOLhyphen"/>ritable than theſe Canons of our Church; as 'tis more merciful to ſend the Bodies of Men into the Cuſtody of the Jailor, than to conſign their Souls into the Paws of the Devil. Nay, 'tis well that Writs <hi>de Excom. Cap.</hi> have not been iſſued out againſt all whom theſe Canons Excommunicate. For if they had, the whole Race of Diſſenters had long ſince been both the Jaylors and the Devils Priſoners; and we are very much afraid, a great part of our own Clergy and Laity muſt have born them Company. So that we can foreſee no better Apology for the Convocation that fram'd theſe Canons, than this, That they ſeem only to have deſigned them for the <hi>old ruſty Armor</hi> of our Church, to be hung up for Terror, rather than to be uſed for Execution. For it cannot be denied, that how little Charity ſoever thoſe had that made them; our Biſhops have generally ſince had more Chriſtian Tenderneſs, than to Proſecute all in their Courts, whom theſe Canons make ſo hainous Criminals. And there<g ref="char:EOLhyphen"/>fore, were we of the Laity worthy to offer our humble Advice to the preſent Convocation, we ſhould recommend it to them,
+<pb n="13" facs="tcp:54299:9"/> as a pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of neceſſary Prudence, as well as Charity, to Caſhier theſe ill-natur'd Canons: For they do but frighten the ſilly Diſſenters the more from our Communion, and are a ſtanding R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>proach to our Church her ſelf on theſe two Accounts.</p>
+               <p n="1">1. Were the Aſſertions here cenſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, never ſo dangerous Hereſies, an <hi>ipſo facto</hi> Excommunication is an unreaſonable thing</p>
+               <p>'Tis no better than paſſing Sentence on an Offender, before any Attempts are uſed to reclaim him, which is a groſs Abſur<g ref="char:EOLhyphen"/>dity in Eccleſiaſtical <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſes, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re 'tis not the bare Offence ſub<g ref="char:EOLhyphen"/>jects Men to that Cenſure of the Church, but Obſtinacy in it. For theſe Canons, quite contrary to our Saviour and his Apoſtles Rule, make a Heathen, and a Publican of our Brother, before he is ever told of his fault; they reject him before he be admoniſh'd. Whereas Divine Juſtice it ſelf does not ſubject Men to the Sen<g ref="char:EOLhyphen"/>tence of Condemnation, meerly for their Sins themſelves, but for their Impenitency in them. And ſure the Church ſhould not uſe greater Severity; and therefore ſhould not in thoſe C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſures (which <hi>Tertullian</hi> calls <hi>Summum futuri judicii praejudicium</hi>) exclude Men from her Communion, <hi>ipſo facto,</hi> upon their having run in<g ref="char:EOLhyphen"/>to Errors or Crimes<g ref="char:punc">▪</g> but upon their perſiſting incorrigibly in them. And what <hi>Lindwood</hi> obſerves concerning ſuch Canons as theſe, does not wholly excuſe them; nam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly, <hi>That a d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>claratory Sentence of the Judg is neceſſary, notwithſtanding the</hi> ipſo-facto-<hi>Ex<g ref="char:EOLhyphen"/>communication, to a Mans being avoided, as an Excommunicate Perſon by others.</hi> For all that this can amount to, is no more than to ſay, That tho a Mans <hi>Mittimus</hi> to the Devil is drawn up by theſe Canons, yet his Neighbours are not to take notice of it, till it be publiſh'd; but for all that, the Man is truly Excommunicated, and that without any other precedent Ad<g ref="char:EOLhyphen"/>monition, than what the Canons themſelves give him, which few of us ever read or ſee; No perſonal Admonition being uſed to prevent his Excommunication, but only to reſtore him by Abſo<g ref="char:EOLhyphen"/>lution. And if theſe Canons be juſt, all whom they Excom<g ref="char:EOLhyphen"/>municate, are bound in Conſcience to forbear the Churches Communion; and therefore we cannot in conſiſtency with our ſelves, invite the Diſſenters into it, unleſs we could either change their Minds, or at leaſt put Gags into their Mouths. But were this all the Fault of theſe Canons, the matter were more tole<g ref="char:EOLhyphen"/>rable. But</p>
+               <p n="2">
+                  <pb n="14" facs="tcp:54299:10"/>2. The Aſſertions themſelves mention'd in the Canons can by no means deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve ſo heavy a Cenſure.</p>
+               <p>For as Excommunication is the higheſt Cenſure of the Church (which according to the Form us'd in our own, excludes the Perſon excommunicated from all Chriſtian Society, and cuts him off as a dead Member from the Body of Chriſt) ſo it ſhould never be us'd againſt any but thoſe who are guilty of ſuch perni<g ref="char:EOLhyphen"/>cious Errors, or hainous Crimes, as give all imaginable ground to believe them in a ſtate of damnation. Such as thoſe mentioned 1 <hi>Cor.</hi> 6.9, 10. <hi>Gal.</hi> 5 19, 20. 2 <hi>Tim.</hi> 3.2, 3, <hi>&amp;c.</hi> For otherwiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we might ſhut thoſe out of our Communion, whom our bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed Sa<g ref="char:EOLhyphen"/>viour receives into his; and dangerouſly cut off the living inſtead of the dead Members of his Myſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Body. Beſides, Nothing will ſooner bring that ſacred part of the Church's Diſcipline into contempt, than the uſing it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſlight and frivolous Occaſions; as we ſhall further ſhew afterwards, when we come to ſpeak of Ec<g ref="char:EOLhyphen"/>cleſiaſtical Courts.<note place="margin">Seſſ. 25. Decr. de Reform. cap. 3.</note> 'Twas a grave and wiſe Caution of the Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent,</hi> though they had not the grace to follow it themſelves, That though the Sword of Excommunication be the very ſinews of Eccleſiaſtical Diſcipline, and very wholſom to keep the People in obedience, yet it ſhould be warily us'd<g ref="char:punc">▪</g> leſt if it be drawn out raſhly on every ſlight cauſe, the People ſhould rather deſpiſe than dread it. For if Clergy-men will ſo far trifle with thoſe ſolemn Cenſures, as to thunder out Excommunications againſt all that keep <hi>Eaſter</hi> the <hi>wrong day,</hi> or maintain <hi>Antipodes,</hi> or wear <hi>Beards of a wrong cut,</hi> &amp;c. as ſome Wiſe and Learned Popes have for<g ref="char:EOLhyphen"/>merly done; 'Tis no wonder if Men come to look upon them as Eccleſiaſtical Scarecrows; and provided they can ſcape the Jaylor, ſet the Biſhop at defiance. And though the Aſſertions cenſur'd in theſe Canons be not altogether ſuch Trifles, yet they are ſome of them things too dubious to Men o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mean Capacities, that have a fa<g ref="char:EOLhyphen"/>tal biaſs of an unhappy Education clapt on their Underſtandings; and of too ſmall conſequence to bear the weight of ſo heavy a doom. For what tho the Diſſenters ſhould arraign the Offic of Burial read over the Graves of all the notorious Villains that have the good fortune to eſcape, or buy off an Excommunication; or cenſure the uſe of our God-fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers as excluſive of the Parents publick undertaking for the religious Education of his own Child? What though they fooliſhly miſtake the Sign of the Croſs for a New Sacrament; what tho they diſpute againſt that Paſſage in
+<pb n="15" facs="tcp:54299:10"/> the Book of Ordination, that aſſerts the divine right of three di<g ref="char:EOLhyphen"/>ſtinct Offices, <hi>Biſhops, Prieſts and Deacons?</hi> What tho they be more peeviſh and untoward, and cenſure the very Office of our Biſhops, as they are by the late Alterations in the Book of Ordination, made the ſole Paſtors of all the Churches in their ſeveral Dioceſes. Nay, what though they affirm their own Congregations to be <hi>true and lawful Churches:</hi> ſhall we on the ſcore of their declaring their miſtaken Opinion in any one of theſe diſputable matters, treat them as if they had denied all the Articles of the Apoſtle's <hi>Creed,</hi> or broken all the <hi>Ten Commandments?</hi> Nor are the Diſſen<g ref="char:EOLhyphen"/>ters the only Perſons concern'd in theſe Canons. There are few of our <hi>Latitudinarian</hi> Clergy (as ſome are pleas'd to call all that have not as narrow Souls as their own) but will freely in their Diſcourſes cenſure ſome things in the Government of our Church, particularly the Lay-chancellors Power of decreeing Excommu<g ref="char:EOLhyphen"/>nications. And all theſe muſt expect no quarter from the 7th Ca<g ref="char:EOLhyphen"/>non. So that theſe Canons will quickly retrench the <hi>corpulency</hi> of our Church, and reduce it to the ſmall number of <hi>Bigots,</hi> who it ſeems are not ſo ridiculous as they ſeem'd to be, in monopoli<g ref="char:EOLhyphen"/>zing the Character of her <hi>True Sons</hi> to themſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. And yet even of the Bigots there are ſo many that frequently arraign ſome of our Articles in the Pulpit it ſelf (particularly the 17th, about the Doctrine of Election) that we ſee not how they will eſcape the 5th Canon. And if we were not afraid of being ſent to the Devil for company, by virtue of the 139. <hi>Can.</hi> we would make bold to queſtion the <hi>Convocations being the Church of</hi> England <hi>by Repreſentation.</hi>
+                  <note place="margin">See the Pref.</note> 'Tis ſtrange how they ſhou'd Repreſent us of the Laity, who never Choſe or Deputed 'em. 'Tis much ſtranger how they ſhou'd Repreſent the K. and Parliament; (who I hope are a very Exc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llent part of our Church) for if they do, we ſee not what occaſion there can be to interpoſe their Authority anew to give force to their Canons. They can at the moſt, only Repreſent the Clergy of our Church, and are indeed no more than the King's and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rliament's Eccleſiaſtical Council, to advi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 'em what Laws relating to the Church, they ſhall enact by th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Authority <hi>circa Sacra.</hi> For all their Canons would never bind one Conſciences as the Laws of the Church, if the Civil Authority made 'em not the Laws of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Land. To ſum up this Head; Why ſhould we think our Convocation ſo infallible, and the Conſtitutions of our Church ſo abſolut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly
+<pb n="16" facs="tcp:54299:11"/> perfect, that a man cannot find the leaſt fault with any one of them under a leſs penalty, than being cut off as a dead member from the Body of Chriſt? This is as inexcuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble a rigor, as if our Parliament ſhould make it no leſs than Baniſhment for any Subject to diſpute the Equity of the leaſt Clauſe in the whole Book of Statutes: So that if the Convocation think fit to keep up theſe Canons ſtill, it were very great Charity to clap Pad<g ref="char:EOLhyphen"/>locks on the Tongues of the People, to prevent their running into the Devils Clutches, by prating too freely againſt the Or<g ref="char:EOLhyphen"/>ders of our Church. And perhaps it was the ſagacious fore<g ref="char:EOLhyphen"/>ſight of ſuch Complaints as theſe, made that wiſe Conv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<g ref="char:EOLhyphen"/>on by way of prevention, excommunicate among the reſt<g ref="char:punc">▪</g> all that ſhould affirm 'em to be, <hi>A Company of m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n that conſpired againſt godly and religious Profeſſors of the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpel;</hi> or aſſert, That their Canons ſhould be <hi>deſpiſed or rejected:</hi> Only they were care<g ref="char:EOLhyphen"/>ful to twiſt in the Kings Authority with their own, that he who ſlighted the <hi>Convocation,</hi> might be thought to trample on the <hi>Crown.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Corruptions in the <hi>Eccleſiaſtical Courts.</hi>
+               </head>
+               <p>AND here we do moſt humbly deſire that the Reverend Guides of our Church will patiently hear us; and eſpe<g ref="char:EOLhyphen"/>cially thoſe of that <hi>Venerable and truly Apoſtolical Order;</hi> and if any expreſſions ſhould drop from us that may ſeem inconſiſtent with that filial duty we owe to 'em, we deſire it may be impu<g ref="char:EOLhyphen"/>ted to our great zeal for 'em; and we ſhall as ſubmiſſively fall on our Knees to beg their <hi>Pardon,</hi> as we would do on any other occaſion to implore their <hi>Bleſſing. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny of the old Corruptions</hi> (ſaith one of <hi>our Reverend Fathers</hi> in God) <hi>do yet remain among us in practice,</hi>
+                  <note place="margin">Dr. <hi>Barnet</hi>'s Thankſg. Ser. before the H. of Commons, <hi>Jan</hi> 31. p. 33</note> 
+                  <hi>and the adminiſtration of the Eccleſiaſtical Authority is liable to great Obj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctions. I will not run out in farther particulars, for it will be eaſie to find them; and if you once ſet ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut it, you will ſoon ſee wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t work is before you.</hi>
+               </p>
+               <p>We ſhall confine our Diſcourſe chiefly to the high and dread<g ref="char:EOLhyphen"/>ful Sentence of <hi>Excommu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ication,</hi> for ſo it is in its ſelf, and was always ſo eſteem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by devout Souls, till the great and ſcanda<g ref="char:EOLhyphen"/>lous
+<pb n="17" facs="tcp:54299:11"/> Abuſes and Corruptions of it in theſe latter days hath made it contemptible to that degree, that ſinners do no more value <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, than men do the threatning predictions of a common <hi>Almana<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k maker</hi> concerning Thunder and Lightning. We have many things here to offer, under theſe following Heads.</p>
+               <list>
+                  <item>1. The Perſons that manage it.</item>
+                  <item>2. The Cauſes for which it is inflicted.</item>
+                  <item>3. The manner of proceeding in our Eccleſiaſtical Courts.</item>
+                  <item>4. The things that enſue on the ſentence of Excommunication.</item>
+               </list>
+               <p n="1">1. The Perſons that manage it. And into whoſe hands would a man rationally expect the Keys ſhould be put, but theirs to whom Chriſt and his Apoſtles have given th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, and where the Primitive Church left them? Who ſhould judg Spiritual Matters, but Spiritual Men? Who ſhould correct the children, but their Fathers; and diſcipline Souls, but they that have the Care of them, and watch over them, as thoſe that muſt give an account? They that ſo juſtly claim the Power of Ordinati<g ref="char:EOLhyphen"/>on, why ſhould they not have that of Excommunication; and <hi>deliver up to Satan,</hi> as well as <hi>give the Holy Ghoſt?</hi> What is it that can reaſonably be ſuppoſed to hinder our Reverend Bi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hops from minding ſo great and neceſſary a part of their Of<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce? Is it their great diligence in <hi>Preaching?</hi> 'Tis true, this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Church doth ſtrictly tie them unto. The<note n="a" place="margin">1 Tim. 3. <hi>apt to teach.</hi>
+                  </note> Epi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le, or that<note n="b" place="margin">
+                     <hi>Acts 20 17.</hi>—have taught you publickly, and from houſe to houſe; take heed therefore to your ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lves, and to all the ſtock over which the H. Ghoſt hath made you over<g ref="char:EOLhyphen"/>ſeers, to feed the church of God, <hi>&amp;c.</hi>
+                  </note> which is appointed for it, and the<note n="c" place="margin">
+                     <hi>St. John 21.</hi> J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ith to Peter, loveſt thou me more than theſe? — Fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d my lambs. —Feed my ſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <hi>&amp;c.</hi> M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. <hi>28.18.</hi> Go and tea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h all na<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <hi>&amp;c.</hi>
+                  </note> Goſpel read at their Conſecration, puts them in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind of it: Nay they formally promiſe it: For theſe are Two of the Queſtions propounded to them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Arch-Biſhop.—<note n="d" place="margin">See the form of the Conſecration of Biſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ps.</note> 
+                  <hi>Are you determined out of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Holy Scriptures, to inſtruct the people <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ommitted to your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>harge?—Will you then faithfully ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rciſe y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lf <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the ſame Holy Scriptures, and call upon God by Pray<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the true underſtanding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the ſame, ſo as ye may be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble by them to teach and exhort by whol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſome Doctrine, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d to withſtand and convince the gainſayers?</hi> To which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Biſhop anſwers,<note n="e" place="margin">See to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he ſame <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſe, the Collect immediately following <hi>V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ni creator ſpiritus;</hi> and the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ch-Biſhop to the Biſhop, when he delivers him the Bible; and the firſt of the three <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Prayers ſaid for the laſt Collect immediately before the Benediction.</note> 
+                  <hi>I am ſo determined by Gods <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ce:</hi> and, <hi>I will ſo do by the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lp of God.</hi> And the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ractice of ſome of our Reverend Fathers, does
+<pb n="18" facs="tcp:54299:12"/> convincingly ſhew they are no <hi>ſtrangers to Gods grace or help,</hi>
+                  <note place="margin">See the firſt Collect in the Conſecration of Biſhops. See the Collect in the Conſe<g ref="char:EOLhyphen"/>crat. ſaid next after the Lita<g ref="char:EOLhyphen"/>ny. See the Collect after <hi>Veni Crea<g ref="char:EOLhyphen"/>tor.</hi>
+                  </note> in this particular. But will diligence in one duty, excuſe the neglect of another? Doth not our Church pray Almighty God to <hi>give to all Biſhops the Paſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs</hi> of his Church, that they may <hi>duly adminiſter godly Diſcipline,</hi> as well as <hi>diligently preach the Word?</hi> and, That they may faithfully ſerve Almighty God in this Of<g ref="char:EOLhyphen"/>fice, to the glory of his name, and <hi>the edifying and well-governing</hi> of his Church. And further, That they may be not only <hi>ever<g ref="char:EOLhyphen"/>more ready to ſpread abroad the Goſpel,</hi> but alſo <hi>uſe the Authority gi<g ref="char:EOLhyphen"/>ven them, not to deſtruction, but to ſalvation?</hi>
+               </p>
+               <p>And doth not the Biſhop ſolemnly promiſe to <hi>correct and pu<g ref="char:EOLhyphen"/>niſh according to ſuch Authority as he hath by Gods Word,</hi> as well as to ſuch as ſhall be <hi>committed to him by the Ordinance of this Realm?</hi> And the Archbiſhop charges him, when he delivers him the Bible, not only to take <hi>heed to Doctrine,</hi> but how he <hi>miniſters Diſcipline</hi> too.</p>
+               <p>We can't think, after all this, that they do voluntarily neglect ſo eſſential a Branch of their Epiſcopal Office, as Governing the Church. Ruling and Diſcipline is their Duty <hi>according to Gods Word;</hi> and if any <hi>Ordinance of this Realm</hi> hinder them from the diſcharge of a Duty <hi>Gods Word</hi> hath laid on them, we think, if they ſhould patiently bear it, they would give but a ſad Ac<g ref="char:EOLhyphen"/>count in that day, when the <hi>Great Biſhop</hi> ſhall appear, when <hi>Pulton</hi>'s or <hi>Keeble</hi>'s Statutes are none of thoſe <hi>Books that ſhall then be open'd.</hi>
+               </p>
+               <p>We are ſure, that this Work is a thing of the higheſt Truſt and Authority, and wherein the greateſt skill and tenderneſs is requiſite; and therefore we think it ſhould be <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſonally</hi> diſchar<g ref="char:EOLhyphen"/>ged, and can't lawfully be deputed to another. For, as the Lord <hi>Bacon</hi> hath obſerved, <hi>we ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n all Laws in the world, Offices of Confidence and Skill cannot be put <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, or exerciſed by Deputy, exce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t it be eſpecially contained in the Original Grant;</hi>
+                  <note place="margin">Conſiderat. for the better E<g ref="char:EOLhyphen"/>ſtabliſh of the Ch. of <hi>Engl.</hi> p. 10.</note> 
+                  <hi>never did any Chancellor of</hi> England, <hi>or Judg in any Court, make a Deputy.— Surely</hi> ab initio non fuit ita; <hi>but 'tis probable that Biſhops, when they gave themſelves too much to the Glory of the World, and became Grandees in Ki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gdoms, and Great Councellors to Princes, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n did they deleagu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their prop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Ju<g ref="char:EOLhyphen"/>riſdiction, as things of too inferior a Nature for their Greatneſs, and then after the Similitude and Imitation of Kings and Counts Palatine, they would have their Chancellors and Judges.</hi>
+               </p>
+               <p>
+                  <note place="margin">His Life, p 92.</note>
+                  <q>Tis, ſaith Biſhop <hi>Bedel</hi> in his <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fence,</hi> one of the moſt eſ<g ref="char:EOLhyphen"/>ſential parts of a Biſhop's Duty, to govern his Flock, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>flict the Spiritual Cenſures on obſtinate Offenders. A
+<pb n="19" facs="tcp:54299:12"/> Biſhop can no more delegate this Power to a Lay-man, than he can delegate a Power to Baptiſe or Ordain, ſince Ex<g ref="char:EOLhyphen"/>communication and other Cenſures are a ſuſpendi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g the Rights of Baptiſm and Orders; and therefore the judging of theſe things can belong only to him that had the Power to give them; and the delegating that Power is a thing null of it ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> It was ever looked on as a neceſſary part of the Biſhop's Duty <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mine and Cenſure the Scandals of his Clergy a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aity, in Ancient and Modern Times.</q> And much mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found to the ſame purpoſe in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Life.</p>
+               <p>But if this Sacr d Work muſt be put off to oth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,<note place="margin">P. 93.</note> were it committed to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hands of any of our Clergy, though never ſo mean, we coul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bear it, out of that profound Re<g ref="char:EOLhyphen"/>verence we have for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gown and Character, as we d'off our Hats in a mean Countrey-Church, that looks little better than a Pigeon-houſe, as w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll as in a Cathedral, for the ſake of that GOD to whom the One is Conſecrated as well as the other. But we have hardly any patience left us, when we conſider, That the Clergy both Superiour and Inferiour, ſtand for Cyphers, and the whole Power of Excommuni<g ref="char:EOLhyphen"/>cation is lodged in <hi>Lay-mens</hi> hands; for ſuch are their <hi>Chan<g ref="char:EOLhyphen"/>cellors, Officials, Commiſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ies,</hi> &amp;c. 'Tis a greater piece of <hi>Sa<g ref="char:EOLhyphen"/>crilege</hi> for theſe Thieves to ſteal and run away with the <hi>Keys</hi> of the Church, than for any to carry off the <hi>Communion-Plate;</hi> Godly Diſcipline being a much richer Treaſure than a Golden Chalic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. We juſtly deride the Presbyteri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, for their compound Aſſemblies, where the Miniſter and the <hi>Lay-Elder</hi> ſit Cheek by Joul, intermingled, like a Man and a Woman at a Dutch Feaſt: But that <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tch-potch-Miſcellany</hi> is more tole<g ref="char:EOLhyphen"/>rable than this Conſtitution of Ours, whereby the whole Clergy being excluded, the <hi>Lay-Chancellor</hi> alone ſits to <hi>remit ſins,</hi> or <hi>retain them,</hi> Men that we are ſure have no Commiſſion from the Bleſſed Jeſus, or his Holy Apoſtles, and have no Power to deliver any Souls up to Satan, unleſs it be their <hi>own.</hi> 'Tis true indeed, They have a Patent for it, and that ſometimes given to gratifie a Friend, ſometimes perhaps purchaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with a round Sum of Money, whereby the pre<g ref="char:EOLhyphen"/>ſent Biſhops paſs away this their Power from Themſelves and their Succeſſors too, and ſo they are rendred uncapable of correcting their Extravagancies and Corruptions, even though they are committed in their Names, and by virtue of an Autho<g ref="char:EOLhyphen"/>rity
+<pb n="20" facs="tcp:54299:13"/> derived from them; whereupon our Reverend Fathers bear the blame, and theſe Varlets reap the advantage of their unjuſt Proceedings. Nay, to that degree of inſolence do they proceed, as ſometimes to hector them if they offer but to inter<g ref="char:EOLhyphen"/>poſe to ſtop or to rectify any of their Illegal and Oppreſſive Acts. Of this we have an inſtance given us by the Author of the <hi>Naked Truth;</hi> I don't mean the bluſtring <hi>Hickeringill,</hi> but, as is com<g ref="char:EOLhyphen"/>monly beli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved,<note place="margin">P. 64.</note> a grave and excellent Prelate of our Church. <q>I remember (ſaith he) when the Biſhop of <hi>Wells</hi> hearing of a Cauſe corruptly managed, and coming into the Court to rectifie it, the Chancellor, Dr. <hi>Duke,</hi> fairly and man<g ref="char:EOLhyphen"/>nerly bid him be gone, for he had no Power there to act any thing; and therewithal pulls out his Patent, ſealed by the Biſhop's Pred<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceſſor, which, like <hi>Perſeus</hi>'s Shield with the <hi>Gorgon</hi>'s Head, frighted the poor Biſhop out of the Court.</q>
+               </p>
+               <p>
+                  <note place="margin">Biſhop <hi>Bedel</hi>'s Life by Doctor <hi>Burnet,</hi> p. 88, 89.</note>Another remarkable Story of this nature we have in the Life of Biſhop <hi>Bedel:</hi> He ſaw, and his Soul was grieved at, the bare<g ref="char:EOLhyphen"/>faced Extortions, and Briberies, and Commutations of Penance, and Vexatious Suits, <hi>&amp;c.</hi> in the Chancellor, that had bought his Place from his Predeceſſor; and the proſtitution of Excom<g ref="char:EOLhyphen"/>munications in a ſordid and baſe manner. To correct theſe abu<g ref="char:EOLhyphen"/>ſes, he goes, and with a competent number of his Clergy ſits and hears Cauſes, and gives Sentence. But his <hi>Lay-Chancellor</hi> brought a Suit againſt him in <hi>Chancery</hi> for invading his Office; and tho the other Biſhops ſtood by him, ſaying, <hi>They were but half Biſhops, till they recover'd their Authority out of the hands of their Chan<g ref="char:EOLhyphen"/>cellors;</hi> and though his Chancellor's Patent were a <hi>formleſs Chaos of Authority conferr'd on him againſt all reaſon and equity, wherein was falſe Latin, nonſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſe, injuſtice, prejudice to the Chapter, contrariety to it ſelf and the King's Grant to the Biſhop,</hi>
+                  <note place="margin">P. 102.</note> 
+                  <hi>and the Seal hanging to it none of the Biſhop his Predeceſſor's Seal;</hi> yet the Chancellor's Right was confirm'd; and there was given him an Hundred Pound coſts of the Biſhop; and great endeavours were uſed to poſſeſs Archbiſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> himſelf againſt him, which went ſo far as to procure an Inhibi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion and Citation againſt him out of his Court.<note place="margin">P. 97.</note> All his Brethren forſook him, even the <hi>Primate</hi> himſelf, though the laſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that did ſo; yet at length Almighty God ſo remarkably proſper'd the zeal of this holy Man, that he was conniv'd at, and held on undiſturb'd i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perſonally attending his Epiſcopal Court; God give to our <hi>Engl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh</hi> B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hops the like Courage and Succeſs.</p>
+               <p>Thus the <hi>Rooks</hi> give check to the <hi>King,</hi> and the Lay-chancel<g ref="char:EOLhyphen"/>lor
+<pb n="21" facs="tcp:54299:13"/> in the Court proves too hard for the Biſhop, as the <hi>Devil</hi> in the Sign of a <hi>Tavern</hi> doth for the Saint, <hi>Dunſtan</hi> we mean.</p>
+               <p>But as though this were not enough, matters are yet a great deal worſe. For not only doth an Appeal lie to the <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urt of De<g ref="char:EOLhyphen"/>legates,</hi> of which we ſhall ſay nothing, becauſe 'tis his Maje<g ref="char:EOLhyphen"/>ſty's; But there is alſo the Archbiſhops <hi>Court of</hi>
+                  <note n="*" place="margin">
+                     <hi>Chamber<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ain</hi>'s Preſent State of <hi>England,</hi> part 2. p. 33.</note> 
+                  <hi>Arches,</hi> where any Eccleſiaſtical Suits between any Perſons within the Province of <hi>Canterbury,</hi> except ſome peculiar<note n="†" place="margin">
+                     <hi>Conſets</hi> Pra<g ref="char:EOLhyphen"/>ctice of Eccl Courts.</note> Juriſdictions belonging to the King'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Majeſty, may, waving all Inferior Courts, be decided. The Official may take cognizance of all Eccleſiaſtical Cauſes what<g ref="char:EOLhyphen"/>ſoever, not only at the inſtance of Parties, but alſo of his mere Office, or when they are promoted; as alſo all manner of Ap<g ref="char:EOLhyphen"/>peals (except as before excepted) from any B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhops, Deans and Chapters, <hi>&amp;c.</hi> Arch-deacons, their Officia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Commiſſaries, or other Eccleſiaſtical Judges whatſoever; as alſo all Commiſſa<g ref="char:EOLhyphen"/>ries of the Archbiſhop of <hi>Canterbury,</hi> whether particular or ſpe<g ref="char:EOLhyphen"/>cial, within all or any Dioceſe of his Province.</p>
+               <p>This Court is kept in the Archbiſhop's name by his Official, who is the Judge of it, called alſo Dean of the Arches, a perf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct <hi>Lay-man,</hi> uſually a Knight, and Doctor of Laws. But he being for the moſt part abſent, ſubſtitutes a <hi>Surrogate</hi> in his place (who is the Arch<g ref="char:EOLhyphen"/>biſhop's <hi>Man's man) viz.</hi> the Dean of the Deanry of the Arches.</p>
+               <p>And there doth this Judge <hi>Perkin</hi> ſit in ſtate,<note place="margin">
+                     <hi>Chamberlain</hi>'s Preſ. <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>te of <hi>England,</hi> part 2. page 273.</note> and according to the old <hi>Mumpſimus</hi> of the Pope's Canon-Law <hi>alone,</hi> without any Aſſeſſors, hears and determins all Cauſes, without any Jury of 12 men, as is neceſſary in Common Law-Courts; and preſumes to ſentence not only us Lay-men, but the Clergy-men alſo, and even Biſhops themſelves, for any Delinquency.</p>
+               <p>And as the Official treats our Superio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in the Arches, ſo doth the Lay-chancellor handle us, and the Inferior Clergy in the Bi<g ref="char:EOLhyphen"/>ſhop's Court, held in the Cathedral of his Dioceſe. Only when any do not appear, being legally cited, and propounded contuma<g ref="char:EOLhyphen"/>cious, and decreed excommunicate, then the Plaintiff's Proctor offers a Schedule of Excommunication to the Judge,<note place="margin">
+                     <hi>H. Conſet.</hi> Prac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ice of the Spirit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> who reads it <hi>if he be in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly Orders</hi> (for you muſt know a ſpecial care muſt be taken of that) and if not, then it is given to one who is in Holy Orders, who is conſtituted to this purpoſe by the Judge. <hi>Good God!</hi> ſaith the forementioned Author of Naked Truth,<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>what a horrid abuſe is this of the Divine Authority! This notorious Tranſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>n is excuſed, as they think by this, that a Miniſter call'd the Biſhop's Surrogate<g ref="char:punc">▪</g> but is indeed the Chancellor's Servant, choſen, called and placed there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="22" facs="tcp:54299:14"/> him to be his Cryer in the Court, (no better) when he hath examin'd, heard, and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt ne'd th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cauſe, then the Miniſter, forſooth, pronounces the ſentence.</hi> Then the Judges Seal being clapt to them, away the Letters of Excommunication are poſted to the Rector, Vi<g ref="char:EOLhyphen"/>car, or Curate of the Pariſh, with Orders to publiſh the ſame in time of Divine Service on ſome Sunday, or Holy-day; al<g ref="char:EOLhyphen"/>ways provided theſe Letters of Excommunication be deliver'd to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Rector, <hi>&amp;c.</hi> at leaſt that <hi>ſame day</hi> on which they are to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e read before Morning or Evening Prayers, that they may be ſure to have <hi>timely</hi> notice of it, ſaith our<note n="*" place="margin">
+                     <hi>H. Conſet.</hi> Practice of Eccl. Courts, p. 38.</note> Author; which they are to publiſh without delay, unleſs they are willing to undergo the Fate of the Miller's Man, who was hang'd for his Maſter: for if they neglect ſo to do, they are to be puniſht by Suſpenſion from their Office. For unleſs at his own peril, the Pariſh Miniſter muſt no more examine the equity and juſtice of the Sentence, than a <hi>Hang-man</hi> dares, but muſt do his Office, though to the beſt liver in his Pariſh, be the Cauſe what it will, how unjuſt ſoever the Sentence is, or how ille<g ref="char:EOLhyphen"/>gally ſoever obtain'd. He muſt give fire when the word of Command is given; though he, good man! know nothing of the matter, yet denounce the Ecommunication he muſt, and give the reſt of the People warning, that they avoid the com<g ref="char:EOLhyphen"/>pany of ſuch a one; juſt as the two nimble Iron Sparks on the outſide of St. <hi>Dunſtan</hi>'s Church, when moved by the Wires within, briskly turn about, and give a <hi>Thump</hi> on the Bell, that all may know what quarter of the hour it is.</p>
+               <p n="2">2. But to proceed from Perſons to things. This we ſup<g ref="char:EOLhyphen"/>poſe no ſober man will deny, that Excommunication being a puniſhment of an immediate Divine Original, men ſhould have a Divine Warrant in what caſes to inflict it. And being ſo ſevere a Puniſhment, no leſs than cutting off from the Body of Chriſt, and ſhutting out of the Kingdom of Heaven, as well as the Society of Chriſtians on Earth, it ſhould not be infli<g ref="char:EOLhyphen"/>cted but for thoſe black Crimes, and deadly Sins, and thoſe obſtinately perſiſted in too, for which the Holy Jeſus hath de<g ref="char:EOLhyphen"/>clared, that men do deſerve that amputation and excluſion from Heaven, that ſo what is bound here below, may be bound above. And this being the Church's expulſive faculty for the caſting out of noxious Hum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs, her weapon for the cutting off <hi>rotten</hi> and <hi>ſcandalous</hi> Members, ſhould be uſed to that end only, as we find in the <hi>New Teſtament,</hi> and many Centuries after it
+<pb n="23" facs="tcp:54299:14"/> was, in the caſe of Hereſy or deteſtable Enormities, accompa<g ref="char:EOLhyphen"/>nied with Contumacy. Now ſuch Sinners ſwarm among us; we have ſuch crowds of Adulterers, Drunkards, Swearers, Blaſphemers, <hi>&amp;c.</hi> that ſome of the Sons of our Church ſay, by way of excuſe for the neglect of Diſcipline, it would not be prudent, or ſafe, to attack them. How few of theſe do our <hi>Eccleſiaſtical Courts</hi> take notice of? In <hi>David</hi>'s time the <hi>Sparrows</hi> were allowed a place near God's Altar; in our days whole herds of <hi>Swine</hi> have the ſame privilege, and no one will, or dare to drive them out. But if a man trip in a <hi>Ceremony,</hi> if an honeſt, but ſimple Diſſenter, will not come to the Sacrament, becauſe though weakly, yet it may be conſcienciouſly, he ſcruples Kneeling, or will not trhough obſtinacy pray the Parſon his Dues, or if the Governors of the State have a Political Deſign to carry on, out comes the ſacred two-edged Sword immediately, and they are cut off by dozens. We might refer the Reader to Dr. <hi>Pinfold</hi> as to this Point, who a very few years ago ſweetly feather'd his Neſt by this means, as thoſe barbarous Wretches in ſome places that live by the Sea-ſide, rejoice at the ſight of a Storm, and enrich themſelves with the Wrecks of thoſe that are unfortunately caſt away. We our ſelves have known a Miniſter of our Church ſuſpended for not burying a Corpſe in his Surplice, when the Surrogate bid him do it at the Grave: and a well-meaning, but ſtubborn Fanatick, ſent to the Devil as an <hi>Eaſter Offering,</hi> becauſe he would not give his Parſon one of two pence half-penny, and the obſtinate fool lay by it on a <hi>Capias</hi> in the Jayl f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ſeveral years.</p>
+               <p>But it were well, if the Eccleſiaſtical Courts did let fly only on theſe Occaſions. For the neglect of a Religious Ceremony, may by ſome be called a mortal Sin, and not paying the Mi<g ref="char:EOLhyphen"/>niſters dues, is a <hi>Fundamental</hi> Point, and a piece of Sacrilege.</p>
+               <p>But the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter doth not ſtop here. The Spiritu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Courts have got to themſelves the Cognizance of a multitude of Tem<g ref="char:EOLhyphen"/>poral Cauſes, <hi>viz.</hi> all Teſtamentary Matters,<note place="margin">See <hi>Coſins</hi> A<g ref="char:EOLhyphen"/>pology, p. 18, 19.</note> Matrimonial Cauſes<g ref="char:punc">▪</g> (and theſe are numerous, for the <hi>Subject</hi> is <hi>Fruitful</hi>) Jactitation of Matrimony, Divorces, Baſtardy, <hi>&amp;c.</hi> Defamati<g ref="char:EOLhyphen"/>ons, Violence to a Clergy-man, Rights of Patron<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge, Double <hi>Quereles,</hi> Wages for a Curate or Clerk, Intereſt and Title to a Benefice, Maintenance in it, ſuch as Tithes of all kinds, Oblati<g ref="char:EOLhyphen"/>ons, Obventions, Penſions, Mortuaries, Church-yard, <hi>&amp;c.</hi> The Dues of a Pariſhioner to the Church, as to Reparations, Seats, Bells, buying of Books, Utenſils, or other Orn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments.
+<pb n="24" facs="tcp:54299:15"/> Not building a Church enjoined by a Teſtator, not keep<g ref="char:EOLhyphen"/>ing a Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch in a comely ſort; or when a Church-Warden refuſes to yi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld an Account of the Church-Stock, violating a Sequeſtration for Tithes n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t paid, hindering to gather or carry Tithes, Money promiſed for redeeming corporal Penance, and detained; Fighting or Brawling in a Church-yard, (I ſup<g ref="char:EOLhyphen"/>poſe, leaſt the Dead ſhould be diſturbed, and hindered of their reſt). And then all Duties ariſing at firſt, on the Exerciſe of <hi>Voluntary</hi> Juriſdiction, and yet by denial made <hi>Litigious;</hi> ſuch be <hi>real Compoſitions</hi> ſought by ſome Party to be Diſannulled, Procurations, Penſions, Synodals, Pentecoſtals, Indempnities, Fees for Probates, <hi>&amp;c.</hi> Or (which they to be ſure will not for<g ref="char:EOLhyphen"/>get, and therefore neither will we) <hi>Fees</hi> growing due, only up<g ref="char:EOLhyphen"/>on Exerciſe of <hi>Litigious</hi> Juriſdiction, and theſe either due to the <hi>Judg</hi> himſelf, as Fees of Citation, Fees of Sentences, <hi>&amp;c.</hi> or due to other Attendants in the Court, as Fees of Advocates, Proctors, Regiſters, Apparitors, <hi>&amp;c.</hi> Lord! what a bleſſed Re<g ref="char:EOLhyphen"/>giment of Cauſes is here, like that of the <hi>Black-guard,</hi> for Spi<g ref="char:EOLhyphen"/>ritual Courts! Well, but tho moſt of theſe one would think were Civil Cauſes, and fit therefore for Civil Courts; yet let them come before the Spiritual Ones, if they pleaſe, as long as a <hi>Lay-man</hi> is the Judg of them. All that we ſtand on, is this, they Summon People to Anſwer in all theſe Caſes, and make Decrees; and if any one do not Appear, or do not Obey their De<g ref="char:EOLhyphen"/>crees, or not Anſwer their Interrogatories, they are judged <hi>Con<g ref="char:EOLhyphen"/>tumacious to the Church,</hi> and then there's <hi>Death in the Pot,</hi> and they have no other way to Puniſh, but by Excommunication. So that an honeſt Man is frequently Smitten with the Churches Thunder, for matters of meer civil Right, or trivial Occaſions, or it may be through the Tricks and Quirks of inferior Officers, or ſometimes through the Ignorance of a blundering Surrogate, for the ſake of a little Money. Let us hear my Lord <hi>Bacon</hi>'s Opi<g ref="char:EOLhyphen"/>nion of this Matter. <hi>Excommunication is the greateſt Judgment on Earth,</hi>
+                  <note place="margin">Conſiderat. for the better E<g ref="char:EOLhyphen"/>ſtabliſh of the Ch. of <hi>Engl.</hi>
+                  </note> &amp;c. <hi>and therefore, for this to be uſed Irreverently, and to be made an ordinary Proc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs to Lacquey up and down for Fees, how can it be without Derogation from Gods Honour, and making the Power of the Keys contemptible? I know very well the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fence thereof, which hath no great force, That it iſſues forth not for the thing it ſelf, but the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntumacy. —But the Contumacy muſt be ſuch as the Party, as far as the Eye and Wiſdom of the Church can diſcern, ſtandeth in ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Repro<g ref="char:EOLhyphen"/>bation and Damnation, as one that for that time ſeemeth given over to final Impenitence.</hi>
+               </p>
+               <pb n="25" facs="tcp:54299:15"/>
+               <p>To this I think we may add their device of excommunicating <hi>whole Communities</hi> of Men, as a Dean and Chapter, or a Maſter Fellows and Scholars of a Colledg, the Mayor and Aldermen of a Town, <hi>&amp;c.</hi> Hereby they have in ſome meaſure that Emperor's Wiſh, that the People had but one Neck, that he might chop it off at one blow. By this <hi>Interdict</hi> are prohibited all Divine Offices,<note place="margin">
+                     <hi>Chamberlain</hi>'s Preſent State of <hi>England,</hi> part <hi>2.</hi> p. <hi>39.</hi>
+                  </note> as Divine Service, Chriſtian Burial, Adminiſtration of Sacraments, <hi>&amp;c.</hi> in ſuch a Place or to ſuch a People; and if it be againſt a <hi>People,</hi> it follows them whereſoever they go; if againſt a <hi>Place</hi> only, then the People of that Place may go to Divine Offices elſewhere. Only the Pope's Canon-Law adds,<note place="margin">Decret. Greg. l. 5. Tit. 40. de Verb. ſignif. c. 17.</note> That ſome who are in a ſpecial manner pri<g ref="char:EOLhyphen"/>viledged by the Roman Church, when a whole Country is interdict<g ref="char:EOLhyphen"/>ed, may celebrate Divine Offices with a low Voice, but then the Doors muſt be ſhut, the Bells muſt not be rung, and all the excom<g ref="char:EOLhyphen"/>municated and interdicted Perſons muſt be excluded.</p>
+               <p>By this Contrivance whole Communities of Men may be broken off from the Body of Chriſt, as whole Countries have been, and ſome ſay <hi>Britain</hi> in particular, from the Continent by the Fury and Violence of the Ocean. But it will be hard to reconcile this to the common notion of Excommunication,<note place="margin">
+                     <hi>Lord</hi> Bacon <hi>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſid.</hi> p. 21.</note> that 'tis <hi>a precurſory and preluſory Judgment of Chriſt in the End of the World;</hi> when we have been ſo often told from the Pulpit and Preſs, that then Socie<g ref="char:EOLhyphen"/>ties ſhall not be puniſh'd <hi>as Societies,</hi> but every Man ſhall perſonal<g ref="char:EOLhyphen"/>ly anſwer for himſelf.</p>
+               <p n="3">3. We paſs on to the manner of proceeding in Excommunicati<g ref="char:EOLhyphen"/>ons, which we ſhall find exactly ſuitable to the <hi>Cauſes</hi> for which they are inflicted, and the Tools that manage this Weapon. For here's no pains taken with Men to bring them to Repentance by Scripture and Reaſon, convincing them of the heinous nature of their Offences, and beſeeching of them in the Bowels of Chriſt. Only a bare pronouncing the words, <hi>I admoniſh you,</hi> three times in a breath; like the Jews whipping St. <hi>Paul</hi> with a triple Cord, and giving three Laſhes in one. We had thought this had been a meer Corruption in the Officers; but we find one of their own Tribe tell us for Law, That a <hi>Man may be admoniſh'd, a firſt,</hi>
+                  <note place="margin">
+                     <hi>H. Conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</hi> Pra<g ref="char:EOLhyphen"/>ctice of Eccleſia<g ref="char:EOLhyphen"/>ſtical Courts, <hi>p. 383, 4.</hi>
+                  </note> 
+                  <hi>a ſecond and a third time, all at one and the ſame moment.</hi> Things are managed at theſe Spiritual Tribunals, juſt as they are at Civil ones; If you will not buckle, there's no other means uſed to in<g ref="char:EOLhyphen"/>duce you to it, but the Charges of the Court, the Trouble of dan<g ref="char:EOLhyphen"/>cing Attendance on it; and by and by out comes the <hi>two-handled
+<pb n="26" facs="tcp:54299:16"/> Rod and Blood-Pail</hi> to fright the ſtubborn Children into Obedi<g ref="char:EOLhyphen"/>ence.</p>
+               <p>And theſe Fees of the Court ſometimes are very terrible things, and touch a Man to the quick. As the Reckoning is enflamed by a roguiſh Vintner, when his Gueſts are ſo with liberal drinking, by ſcoring up two Bottles for one at the Bar; ſo they know how to take the advantage of the Ignorance of thoſe they have got into their Clutches, and top upon them double the Rates of what is by Law allowed. I find one of themſelves confeſſing this in ſundry Inſtances in the Courts of the Arch-Biſhop of <hi>York,</hi> as to <hi>Teſta<g ref="char:EOLhyphen"/>mentary</hi> Matters, and acknowledging the ſame in general as to o<g ref="char:EOLhyphen"/>ther Fees, for Copies of Acts, Depoſitions of Witneſſes, Fees to Apparitors,<note place="margin">
+                     <hi>H. Conſet.</hi> Pra<g ref="char:EOLhyphen"/>ctice of Eccleſia<g ref="char:EOLhyphen"/>ſtical Courts, <hi>p. 422, 3.</hi>
+                  </note> 
+                  <hi>&amp;c.</hi> Take one Inſtance: <q>To a Judg for an Ad<g ref="char:EOLhyphen"/>miniſtration, where the Eſtate is above 40 <hi>l.</hi> 7. <hi>s.</hi> 6 <hi>d.</hi> which ad<g ref="char:EOLhyphen"/>vance from 2 <hi>s.</hi> &amp; 6 <hi>d.</hi> (for that was the old Price according to the Table allowed of in 13 <hi>Eliz.</hi>) 'was, as I have heard, ſaith he, in compaſſion to one of the Commiſſioners of the late Arch-Bi<g ref="char:EOLhyphen"/>ſhop's, his neceſſitous Condition, agreed by all the Proctors, and other Officers to be impoſed on the Country.</q> Whether this Com<g ref="char:EOLhyphen"/>miſſary be dead or no I know not, but till the Year 1685. this way of <hi>raiſing Mony on the Country, without Act of Parliament,</hi> did continue in this, and in many other Inſtances there enumerated by him, and I ſuppoſe doth ſo ſtill: By the ſame reaſon that the French King impoſes Taxes on his Slaves, becauſe he had Authority given him once to do it in Caſes of Neceſſity, while the Kingdom was in a Flame. And tho he had a <hi>Law</hi> to do ſo for the preſent, which theſe Harpies never had, yet the forementioned Author gives a ſubſtantial Reaſon for the thing that may ſupply the place of it: <q>For,<note place="margin">Id. ibid.</note> ſaith he, ſpeaking of the Regiſters, the Reaſon of Augmen<g ref="char:EOLhyphen"/>tation to them, is, becauſe they pay great Fines to the Arch-Biſhops for their Places, <hi>(and he that buys the Devil, muſt ſell him)</hi> and do again let them for Term of Years to Deputies for great Fines, which Deputies have no way to raiſe their Monies but by this manner of advance or exaction upon the Country.</q> Now I think the ſame Argument is altogether as ſtrong for the <hi>Surrogate,</hi> who is the Chancellor's Deputy; for Chancellors and Officials have learnt the Art of making their Places <hi>Sine-Cures,</hi> committing them to the management of thoſe Journy-men who are many times wretch<g ref="char:EOLhyphen"/>edly ignorant, and ſo are often impoſed on by the inferiour Officers, by whoſe direction all Matters are diſpatched, (as the Clerk mana<g ref="char:EOLhyphen"/>ges
+<pb n="27" facs="tcp:54299:16"/> the Juſtice) and they to be ſure will turn the Water into ſuch a Channel, that it may moſt effectually drive their own Mills.</p>
+               <p>But ſuppoſing none of theſe <hi>Blunders</hi> or <hi>Knaveries</hi> be commit<g ref="char:EOLhyphen"/>ted, let's a little examine the <hi>regular</hi> and <hi>ordinary</hi> Proceedings. And in order thereunto, we muſt conſider there are two ſorts of Cauſes, <hi>Plenary, i. e.</hi> ſuch as require a ſolemn Order and Method; and <hi>Summary,</hi> where that being waved, a Proceeding by a ſhorter Cut will ſerve the turn. Now what Cauſes in particular fall under each of theſe Heads, is kept very <hi>dubious</hi> for a very <hi>profitable</hi> Reaſon,<note place="margin">Conſet. p. 22, 3.</note> 
+                  <hi>viz.</hi> this, Tho the Cauſe be <hi>ſummary,</hi> yet you may proceed <hi>plena<g ref="char:EOLhyphen"/>rily,</hi> and 'tis the more valid, and the Officers of the Court can the better lick their Fingers. But if the Cauſe ſhould be judg'd to be a <hi>plenary</hi> one, and you ſhould proceed <hi>ſummarily,</hi> then all the Pro<g ref="char:EOLhyphen"/>ceedings are immediately null, you loſe your Charges, and the Proctor gets; and the Pidgeon-Houſe of Cards being pulled down, the Child muſt begin all again.</p>
+               <p>Now in <hi>plenary</hi> Cauſes out goes a <hi>Citation</hi> either general or ſpeci<g ref="char:EOLhyphen"/>al, obtained by the Plaintiff, his Sollicitor or Proctor, drawn by the Proctor, Sollicitor or Apparitor, in writing, and ſealed by the Judg. Then the Mandatory, or the Plaintiff, certifies the manner in which the Defendant was cited, that ſo the Plaintiff's Proctor may draw an Authentical Certificate thereupon, to which an Authentick Seal is put, at the ſpecial inſtigation and requeſt of the Mandatory.</p>
+               <p>Then you muſt have a Proctor, either <hi>general</hi> or <hi>ſpecial,</hi> to ma<g ref="char:EOLhyphen"/>nage the Cauſe. For no Citation, tho executed, can be brought in<g ref="char:EOLhyphen"/>to Court but by him; he muſt be conſtituted by a <hi>Proxy, i. e.</hi> by a Power or Mandate given to the Proctor by his Client to appear and tranſact for him, or before a <hi>Notary publick</hi> with Witneſſes, and this authentically ſealed too: And the Election of your Proctor muſt be inſerted in the Acts of the Court; if he die after the <hi>Suit is conteſted,</hi> the Mandate is abſolutely revoked. Then ſuppoſing they have not got you on the hip for ſome Error as yet, however there be abundance of Blots yet to be hit. Many Exceptions may be brought in, <hi>peremptory ones,</hi> either <hi>ſimply ſuch,</hi> or <hi>defenſive;</hi> or <hi>dilatory</hi> ones, and theſe are twofold, <hi>Dilatoria Solutionis,</hi> where perhaps the Party alledges the paiment or ſatisfaction of what is ſu<g ref="char:EOLhyphen"/>ed for; and <hi>Declinatoria Judicii,</hi> for declining the Cauſe, either by excepting againſt the Judg by <hi>Recuſation, Provocation, &amp;c.</hi> or by reaſon of the Plaintiff, or the Arbitrators, or Proctor, Advocate, Libel, Witneſſes, Interrogatories, Publick Inſtruments, Poſitions,
+<pb n="28" facs="tcp:54299:17"/> Sentence, <hi>&amp;c.</hi> Beſides theſe, there are two Squadrons more of Exceptions, <hi>Mediae,</hi> or mixt Ones; and <hi>Anomalae,</hi> or irregular Ones; each of which have their proper Seaſons of being urged. And theſe muſt be drawn in writing, and ſome Body muſt pay for all this. For 'tis Mony makes theſe Beaſts to go, without which they will not ſtir a ſoot.</p>
+               <p>What we have hitherto ſpoken of, is common to all Cauſes, whether <hi>Plenary</hi> or <hi>Summary.</hi> What we ſhall further add (and there is much behind) agrees in its whole Latitude to the former ſort of them. Suppoſe then that hitherto we be clear of all Rocks; then comes the Libel, but it muſt be ſubſcribed by an Advocate, and poſſibly you may wait a little for it, till next Court-day. This being at laſt given into Court, it often happens that it muſt be amended or alter'd, in many Caſes too tedious to reckon up. And you can't have any thing done to an old pair of Clothes, but you ſhall find an <hi>Item</hi> for it in a Taylor's Bill. Then follows the <hi>conteſting</hi> the Suit. By this time the Defendant is called upon to put in his Anſwer; and unleſs he confeſs the Fact, either in part, or in the whole, as 'tis laid, and ſo caſts himſelf on the Mercy of the Court, which is conteſting Suit <hi>Affirmatively,</hi> he muſt proteſt by his Proctor againſt the generality, ineptitude, obſcurity, or undue ſpecification of the Libel, and that the things contained in it are not true, and therefore what is contained in it ought not to be granted: And this is conteſting <hi>Negatively.</hi>
+               </p>
+               <p>Then the Plaintiff alledges, that his Libel is in Articles, and he deſires the Judg may repeat it in full Force of the Poſitions and Articles, which accordingly is done, and the Libel admitted with a <hi>Salvo Jure Impertinentium &amp; non admittendorum,</hi> &amp;c. On this the Plaintiff deſires an Anſwer to the Poſitions of this Libel; where<g ref="char:EOLhyphen"/>upon the Defendants Proctor replies, He don't believe the Poſiti<g ref="char:EOLhyphen"/>ons to be true. Then the Plaintiff, by his Advocate, deſires the Defendant may be decreed to be cited to anſwer Perſonally to the Poſitions of the Libel, before the Judg, or ſome Commiſſioners. The Defendant's Proctor diſſents from this, and requeſts a Term to be aſſign'd to prove the Libel. And here both ſides may ſquabble and brawl about it, but it muſt be by their <hi>Seconds</hi> (the Officers I mean) in Mood and Figure, about the time, that 'tis too ſhort, or too long; and either of them for that reaſon may appeal.</p>
+               <p>The Suit being conteſted, from Words the Proctors fall to Oaths,
+<pb n="29" facs="tcp:54299:17"/> and either Side may lend his client a <hi>Swear;</hi> the one, that he be<g ref="char:EOLhyphen"/>lieves the Contents of the Libel are faithfully propounded; the other, that he will give a faithful Anſwer. Then the two <hi>Principals</hi> muſt take the Oaths of <hi>Calumny,</hi> the <hi>general</hi> one, and this is taken but once, and that either here, or in any part of the Proceedings; and the <hi>particular</hi> one, called the Oath of <hi>Malice,</hi> to this purpoſe, that both of them believe their Cauſe to be good, that they will manage it honeſtly, and not protract the Suit, and give no Bribes, only the <hi>Fees</hi> are excepted to ſuch Perſons to whom the Laws and Canons do allow them. After this, their Proctors help them to keep theſe Oaths by ſtaving off the Buſineſs, upon im<g ref="char:EOLhyphen"/>pertinent Quirks, for ſix Court-days, nay ſometimes for two or three Terms; ſo that, ſaith our Author, Men complain exceed<g ref="char:EOLhyphen"/>ingly of theſe Abuſes,<note place="margin">
+                     <hi>Conſet.</hi> p. 92.</note> that they <hi>never knew any End of their Bu<g ref="char:EOLhyphen"/>ſineſs after it comes into theſe Courts.</hi>
+               </p>
+               <p>Well, the Citation, though long firſt, at laſt is gotten out for the Defendant to appear and anſwer the Libel before the Judg, or the Commiſſioners; which Commiſſion muſt be certified into Court that it hath been executed, and is ſometimes paid for jointly, ſometimes by one of the Parties only. The Defendant then puts in his Anſwer, which is either Categorical, Hypothetical, Modal, affirming or denying, finitely or infinitely; True, neceſ<g ref="char:EOLhyphen"/>ſarily or contingently; Falſe, or in equipollent Terms. Then the Defendant appearing Perſonally, is ſworn to make a faithful An<g ref="char:EOLhyphen"/>ſwer to the Poſitions of the Libel, only his Proctor proteſts he don't intend to anſwer to any Criminal or Captious Poſition; or if he do, it ſhall be accounted Null. The next Court-day he is ordered to appear to be examin'd. But it may be he hath an<g ref="char:EOLhyphen"/>ſwered too little, and then he is ſummon'd again to anſwer more fully; it may be too much, and then his Proctor may ſub<g ref="char:EOLhyphen"/>duct and revoke it.</p>
+               <p>When this is ſettled, If the Witneſſes won't come voluntari<g ref="char:EOLhyphen"/>ly on an offer of bearing their Charges, then come <hi>Letters Com<g ref="char:EOLhyphen"/>pulſory</hi> for them to appear before the Judg, or Commiſſioners; and a Commiſſion is then granted to hear their Depoſitions with<g ref="char:EOLhyphen"/>in the <hi>Term Probatory.</hi> Theſe Letters are returned into the Court, and it may be the Witneſſes can't be found, none of them, or but ſome of them do appear, and the Abſenters are to be excommuni<g ref="char:EOLhyphen"/>cated; and this is often contriv'd on purpoſe, that hereby the <hi>Term Probatory</hi> may be prorogued, and ſo the Suit may be protracted, and the Charges encreaſed.</p>
+               <pb n="30" facs="tcp:54299:18"/>
+               <p>The Witneſſes at laſt being got all together before the Judg, they are ſworn; Then the Proctor proteſts againſt them, and any thing they ſhall ſay againſt the intention of his Client, and de<g ref="char:EOLhyphen"/>ſires a Day to be aſſigned for propounding <hi>Interrogatories,</hi> which are to be given in by him into the Hands of the Regiſter, or Ex<g ref="char:EOLhyphen"/>aminer. Then the Witneſſes are privately examined, their De<g ref="char:EOLhyphen"/>poſitions put into writing by the Regiſter, and ſigned by the Wit<g ref="char:EOLhyphen"/>neſſes, and after repeated before the Judg, who examins them, Whether on their Oath it be all right and true? and whether they would have any thing altered? But their Poſitions are taken in <hi>Latine,</hi> becauſe we ſuppoſe that's a Language that is like the <hi>
+                     <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Character,</hi> which all, even the Country Jobbers themſelves do underſtand.</p>
+               <p>Now after this it may be, the Proctor on one ſide objects, that the Witneſſes han't anſwered to ſome Interrogatories which they ought to do, or not fully, but he on t'other ſide gives him the <hi>Lie,</hi> and ſo a Day is appointed for the Judg to enquire into this.</p>
+               <p>It may be the Witneſſes are to be produced, not before the <hi>Judg,</hi> but the Commiſſioners; and then there's more ado in that Caſe than in this, which, to avoid tediouſneſs, we omit.</p>
+               <p>For the ſame Reaſon we ſhall (though we are yet come hardly half way) proceed no further, nor ſpeak particularly to the pub<g ref="char:EOLhyphen"/>liſhing the Depoſitions of the Witneſſes, producing more Witneſ<g ref="char:EOLhyphen"/>ſes, Exceptions which are numerous, and Replications which are as many, and anſwer the other, juſt as one Tally doth another; nor of Duplications and Triplications, and Quadruplications. For by all theſe ways is the Cauſe bang'd about between the Par<g ref="char:EOLhyphen"/>ties, and beaten to and fro like a Shittle-cock between two Battle<g ref="char:EOLhyphen"/>dores. Nor of <hi>dead Proofs,</hi> which are Inſtruments, either Pub<g ref="char:EOLhyphen"/>lick or Private, and both of them of many ſorts. Nor of the <hi>Aſſignation of the Term</hi> to hear Sentence, nor of the <hi>Suppletory</hi> Oath, given ſometimes to one ſide, ſometimes to t'other, to ſupply and piece out the defect of Proof.</p>
+               <p>Beſides and after all this, there's another long pair of Stairs, and 'tis the Third in order, that would break a Man's wind to get up, and that is, the <hi>giving of Sentence.</hi> And then when you think the matter is iſſued and ended, all is undone again by an <hi>Appeal,</hi> which if we ſhould fully ſpeak of, there are ſo many deep ſteps that we ſhould be utterly tired, as to be ſure the Plaintiffs
+<pb n="31" facs="tcp:54299:18"/> and Defendants have been long ere this, by being carried up, and led down ſo many dark and winding Stairs in theſe enchanted Caſtles.</p>
+               <p>From what hath been offer'd, we plainly ſee, there's no difficul<g ref="char:EOLhyphen"/>ty in believing that to be a very great Truth that Dr. <hi>Burnet</hi> tells us, of Bp <hi>Bedel</hi>'s<note place="margin">
+                     <hi>Bp</hi> Bedel<hi>'s Life,</hi> pag. 89.</note> obſervation, That the Officers of his Spiritual Court drew People into trouble by <hi>vexatious Suits, and held them ſo long in it, that for three penny-worth of the Tithe of Turf, they would be put to five pounds Charges.</hi>
+               </p>
+               <p>We have only one thing to add on this Head, and we leave it, That one half of the manner of their Proceedings hath not been told in <hi>Plenary</hi> Cauſes; and though many cramp Words have been uſed by us in what we have written, they are the pro<g ref="char:EOLhyphen"/>per Terms of Art; and there's a very large Vocabulary of them, neceſſary to be mention'd by us, if we ſhould tell out the remain<g ref="char:EOLhyphen"/>der of this Tale; which we forbear, leſt Men ſhould think we have a Deſign upon them to ſend them to him whom the Officers of this Court deal ſo much with, and to whom <hi>Hermolaus Barba<g ref="char:EOLhyphen"/>rus</hi> was fain to reſort to underſtand the meaning of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p n="4">4. We ſhould proceed to the Things that enſue upon Excom<g ref="char:EOLhyphen"/>munication. And here it were eaſy to be very large in diſcour<g ref="char:EOLhyphen"/>ſing on the <hi>Significavit</hi> into the Court of <hi>Chancery</hi> in the Biſhop's name, that the Perſon hath ſtood excommunicate forty Days, for the getting a Writ, <hi>de Excommunicato capiendo,</hi> that he may be ſent to Priſon. Of the forfeitures of ten Pounds on every <hi>Capias;</hi> afterwards for not yielding ones ſelf up a Priſoner on the Procla<g ref="char:EOLhyphen"/>mation of the <hi>Capias</hi>'s. <hi>It is a liberty peculiar to the Ch. of</hi> England,<note place="margin">
+                     <hi>Dr.</hi> Conſin'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Apology,</hi> p. 8, 9, 10.</note> (ſaith the learned Advocate of theſe Courts) <hi>above all the Realms in Chriſtendom that I read of, that if a Man ſtand wilfully forty days together Excommunicate, and be accordingly certified by the Biſhop into the Chancery, that then he is to be committed to Priſon without Bail or Main-priſe;</hi> quòd poteſtas regia Sacroſanctae Eccleſiae in ſuis querelis deeſſe non debet, <hi>becauſe the Royal Power ought not to be wanting to Holy Church in her Quarrels.</hi> Yet we muſt confeſs we don't ſee how this can be juſtified, unleſs that <hi>Axiom</hi> be own'd for truth, that <hi>Dominion is founded in Grace;</hi> and when a Man is made as a <hi>Publican and Heathen,</hi> he loſes all his Civil Rights.</p>
+               <p>We might further ſpeak of the ſeveral ways of <hi>Abſolution</hi> from this Sentence, and that upon ſeveral little miſtakes in the Form of
+<pb n="32" facs="tcp:54299:19"/> Proceedings, and by Orders ſent down from <hi>Civil Courts.</hi> For when a Man is faſt <hi>bound</hi> one would think, there are many of theſe ways of <hi>unlooſing</hi> him; as we have ſeen Children, that by the dextrous pulling of the right String, have immediately whipt off the Pack-thread from another's thumbs in a moſt ſurprizing manner.</p>
+               <p>
+                  <note place="margin">Bp. <hi>Bedel</hi>'s Life, p. <hi>89.</hi>
+                  </note>We might further ſpeak alſo of the <hi>commuting of Penance</hi> for Money, <q>Which, as Dr. <hi>Burnet</hi> well ſaith, is the worſt ſort of Si<g ref="char:EOLhyphen"/>mony, being in effect the very ſame abuſe that gave the World ſuch a Scandal, when it was ſo indecently practiſed in the Church of <hi>Rome,</hi> and open'd the way to the Reformation. For the ſelling of Indulgences is really but a commutation of Penance.</q> Of this that good Bp <hi>Bedel</hi> had ſo many, and ſuch notorious In<g ref="char:EOLhyphen"/>ſtances in his Dioceſs, that be bitterly bewail'd it, and to which he was able to reply nothing but that he had read in <hi>Mantuan</hi> of ano<g ref="char:EOLhyphen"/>ther place in the World, (<hi>Rome</hi> he means) <hi>where Heaven and God himſelf were ſet to ſale.</hi>
+                  <note place="margin">Id. <hi>p.</hi> 90.</note>
+               </p>
+               <p>Now from that little that hath been ſaid, we may ſee how tru<g ref="char:EOLhyphen"/>ly he ſpoke,<note place="margin">Id. <hi>p.</hi> 93.</note> when he ſaid that <hi>a plain and ſimple thing</hi> is by theſe Men <hi>made very intricate.</hi> And that <hi>amongst all the Impediments to the Work of God among us,</hi>
+                  <note place="margin">Id. <hi>p.</hi> 103.</note> 
+                  <hi>there is not any one greater than the A<g ref="char:EOLhyphen"/>buſe of Eccleſiaſtical Juriſdiction. This is not only the Opinion of the moſt Godly, Judicious, Learned Men, that I have known, but the cauſe of it is plain.</hi>
+               </p>
+               <p>
+                  <hi>Bleſſed Ieſu! who alone works great Marvels, ſend down thy Spirit on our Biſhops, that they may boldly whip theſe Buyers ond Sellers out of thy Tem<g ref="char:EOLhyphen"/>ple, that ſit there only to diſhonour thy Name, and ſpunge on thy People, and turn thy Houſe of Diſci<g ref="char:EOLhyphen"/>pline into a Den of Thieves.</hi> Amen.</p>
+               <p>And we beſeech God to encline their Hearts, and thoſe of our Governours to do it, and not to ſuffer theſe Lay-Chancellors to meddle but in <hi>Civil</hi> Cauſes only, and there to endeavour to regu<g ref="char:EOLhyphen"/>late their enormous Abuſes; and in the Lord <hi>Bacon</hi>'s Words, <q>That in lieu of Excommunication,<note place="margin">
+                        <hi>Conſid. p.</hi> 21, 22.</note> there be given to them ſome ordinary Proceſs with ſuch Force and Coercion as appertaineth, and that this Cenſure be reſtored to the true Dignity and Uſe thereof, which is, that it proceed not but in caſes of great Weight, and that it be decreed not by any Deputy or Subſtitute, but by
+<pb n="33" facs="tcp:54299:19"/> the Biſhop in Perſon, and not by him alone, but aſſiſted by ſome others of his grave Clergy, according to the excellent Model of that incomparably learned and pious A B. <hi>
+                        <g ref="char:V">Ʋ</g>ſher.</hi>
+                  </q>
+               </p>
+               <p>Then will Diſcipline recover its ancient Vigour and Splendor; then will Sinners no longer ſlight this Spiritual Sword in the Church, as Atheiſts do God's fiery flaming one that ſometimes appears in the Heavens, as if it were a meer <hi>Meteor</hi> hanging in the Air, and made of fiery <hi>Vapors</hi> only; but will find 'tis a ſolid ſubſtantial thing, hath a real Point and a ſharp Edg piercing into the very Depths of the Soul, and that it needs not corporal Penalties to ſet one upon it to that end.</p>
+            </div>
+            <div type="part">
+               <head>Of removing ſcandalous Miniſters.</head>
+               <p>AND ſure none that regard the Glory of Almighty God, or the Honour of our Church, or the Reputation of our Cler<g ref="char:EOLhyphen"/>gy themſelves, can ever oppoſe ſo reaſonable a Motion as this; for nothing has more expoſed our Holy Religion to Contempt, or encouraged the Laity in their Vices, or ſunk the Credit of our Clergy (not to ſay, of our Church it ſelf) than the ſcandalous Lives of ſome of that Function; and ſince Examples have a more powerful Influence on the People than meer Precepts; 'tis no Wonder that the Lives of flagitious Clergy-men bring in more Proſelytes to Wickedneſs and Vice, than ever their preaching will make Votaries to Religion and Vertue; for how ſhould the beſt Advices and Counſel they can deliver from the Pulpit, make any great Impreſſion on their Hearers, which they never follow them<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elves when out of it? They may long enough commend Vertue, and declaim againſt Vice, and urge what they ſay with Argu<g ref="char:EOLhyphen"/>ments drawn from the Rewards and Puniſhments of another World; but how ſhould the People believe them, when they do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot live as if they believed themſelves? And while ſo many of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Clergy make no great Scruple of Conſcience to drink and whore, and ſwear and game, and droll on the Bible, and pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ane the Sunday, and neglect the moſt important Duties of their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſtoral Charge; 'tis no Wonder if the Laity think themſelves <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thorized to take the ſame Liberty which they ſee uſed by thoſe whom they look on not only as their Inſtructors, but their Pat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erns too. It was a juſt Obſervation of the late E. of <hi>Rocheſter,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat that one particular Vice, <hi>viz.</hi> the baſe Arts of ſome Cler<g ref="char:EOLhyphen"/>gy-men
+<pb n="34" facs="tcp:54299:20"/> in aſpiring to the high Preferments of the Church, had poſſeſs'd many of the beſt Quality in the Nation with that wretched Idea of Religion that greatly diſpoſed them to Atheiſm: For they look'd on that ſacred Profeſſion, as a Holy Cheat, a Trade of talking well, and living ill. 'Tis high time then to redreſs this Cor<g ref="char:EOLhyphen"/>ruption, to rid our Pulpits and our Altars of ſuch as ſtain them with their profane Breath and unhallowed Hands,<note place="margin">1 <hi>Sam.</hi> 2.17.</note> and like the wicked Sons of <hi>Eli,</hi> make the very Offerings of the Lord to be abhorr'd. And we are ſure our Church may as well ſpare them as a beautiful Face may thoſe Blotches and Scabs that ſerve only to disfigure it. And yet in all the Book of Canons, we find not one that expreſly orders the depoſing a ſcandalous Clergy-man. There is indeed a Canon againſt ſuch Miniſters as omit the uſe of any Form of Prayer,<note place="margin">
+                     <hi>Can.</hi> 38.</note> or any Rite or Ceremony whatever preſcrib'd in the Service-Book, to ſuſpend them for the firſt Fault; if they perſiſt a Month in it, to excommunicate them; if another to de<g ref="char:EOLhyphen"/>poſe them;<note place="margin">
+                     <hi>Can.</hi> 54.</note> and another, to make void the Licenſes of all ſuch Miniſters as refuſe to conform to the Laws, Inſtitutes, and Rites of our Church. So that we cannot blame her for not taking ſufficient Care to purge out of all her Sons, that ſcandalous Sin of Non-Conformity.<note place="margin">
+                     <hi>Can.</hi> 68.</note> For there's another Canon to ſeclude from the Miniſtry for three Months, every Miniſter that ſhall refuſe to bap<g ref="char:EOLhyphen"/>tize any Child that's brought to him (be the Parents Chriſtian, Mahometan, or Pagan) or bury any (except the Excommuni<g ref="char:EOLhyphen"/>cate, <hi>&amp;c.</hi>) according to the form preſcribed in the Liturgy. A<g ref="char:EOLhyphen"/>nother Canon forbids Miniſters either to appoint or keep Faſts ei<g ref="char:EOLhyphen"/>ther in publick or Private Houſes,<note place="margin">
+                     <hi>Can.</hi> 72.</note> without the Leave of the Biſhop, threatning them with Suſpenſion for the firſt time, Excommuni<g ref="char:EOLhyphen"/>cation for the ſecond, and Depoſition for the third. A Canon which we think might very well be ſpared: For People need very little to be diſſwaded from that ſort of Mortification; and the Mi<g ref="char:EOLhyphen"/>niſters will be very loth to attempt it, when they are obliged to <hi>double Pennance,</hi> to go on Pilgrimage to the Biſhop one Day, and faſt the next.<note place="margin">
+                     <hi>Can.</hi> 73.</note> Another Canon there is againſt all Meetings or Clubs of the Clergy to plot any thing againſt the Doctrine of the Church, or to the Prejudice of the Common-Prayer-Book, threat<g ref="char:EOLhyphen"/>ning them with Excommunication. A very provident Canon indeed, that ſeems to have been made by a Spirit of Prophecy againſt <hi>Smectymnuus</hi> and the Latitudinarians: And 'tis very probable thoſe of our Clergy who were ſo f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of Indignation againſt the
+<pb n="35" facs="tcp:54299:20"/> late Commiſſioners, miſtook them for ſuch a plotting Conventicle. We need not inſiſt on the 74th Canon which preſcribes the Clergy their ſeveral Habits, and very prudently cautions them againſt wearing <hi>light-coloured</hi> Stockings, and charitably allows <hi>ſhort Gowns</hi> to the poor Curates that have not Mony to buy long ones. But ſetting aſide theſe hainous Crimes; we find only this one Ca<g ref="char:EOLhyphen"/>non againſt other Immoralities. <hi>viz.</hi> 75. <hi>No Eccleſiaſtical Perſons ſhall at any time other than for their honeſt Neceſſities reſort to any Taverns or Ale-houſes, neither ſhall they board or lodg in any ſuch Places: Furthermore they ſhall not give themſelves to any baſe or ſervile Labour, or to drinking or Riot, ſpending their time idly by Day or by Night, playing at Dice, Cards, or Tables, or any other unlawful Game. But at all times convenient they ſhall hear or read ſomewhat of the Holy Scriptur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, or ſhall occupy themſelves with ſome other honeſt Study or Exerciſe, always doing the things that ſhall appertain to Honeſty, and endeavouring to profit the Church of God, having always in Mind that they ought to excel all others in Purity of Life, and ſhould be Examples to the People to live well and Chriſtianly, under Pain of Eccleſiaſtical Cenſures to be inflicted with Severity according to the Qualities of their Offences.</hi>
+               </p>
+               <p>This Canon indeed ſpeaks ſomething to the Purpoſe, and yet we would beg leave to ſuggeſt two things relating to it.</p>
+               <p n="1">1. We ſuppoſe this Canon only threatens the ſcandalous Clergy with Excommunication; for it does not as the 38, 72, &amp;c. threaten them with <hi>Depoſition</hi> on their perſiſting incorrigible. Whereas that too is highly neceſſary, there being all the Reaſon in the World that obſtinate Non-Conformity to the <hi>Laws of God,</hi> ſhould at leaſt be equally puniſh'd with ſtubborn Nonconformity to the <hi>Laws of the Church;</hi> for it would look but very odd to treat a Miniſter more ſeverely for omitting a Collect in the Service-Book, or keeping a private Faſt, than for being drunk, or lying with his Neighbour's Wife.</p>
+               <p n="2">2. We wiſh that this good Canon it ſelf, may not ſtand for a Cypher for want of Execution. And yet hitherto all the good Effects that might have been expected from it to free our Churches from ſuch leprous and unclean Prieſts, have been in a great Mea<g ref="char:EOLhyphen"/>ſure fruſtrated. For we do not ſee that one in twenty, of ſuch whoſe notorious Vices make too publick a noiſe to be unobſerved, was ever excommunicated, much leſs depoſed for them. We ſpeak within Compaſs, and heartily lament the intolerable Miſchiefs that from this fatal Source overflow our Church. And therefore we would
+<pb n="36" facs="tcp:54299:21"/> humbly recommend it to the Wiſdom of the Convocation, to take the moſt effectual Methods for the obviating of them, and (if it might be no Offence) would take the Liberty to ſuggeſt that if the Rural Deaneries in Arch-biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s Model were reſtored, they might firſt receive Complaints againſt ſuch, and ſuſpend them till the Matter come before the Dioceſan Synod. Were this done, and were all our Clergy ſuch excellent Ornaments of their Pro<g ref="char:EOLhyphen"/>feſſion, as (God be thanked) a great many of them are, the Diſſenters would not ſo eaſil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gain ground upon us, as they have hitherto done by the pretended Strictneſs of Life in their Miniſters, and their great Laboriouſneſs in the Duties of their Function.</p>
+            </div>
+            <div type="part">
+               <head>Of the Reformation of Manners both in Miniſters and People.</head>
+               <p>
+                  <hi>IN the Miniſters.]</hi> What relates to ſuch as are chargeable with ſcandalous Immoralities was conſidered under the former Head; but under this Head, we would humbly recommend to the preſent Convocation, the reforming two very groſs Corruptions retained in our Church, notwithſtanding all the loud Complaints that have been made againſt them, <hi>Pluralities</hi> and <hi>Non-Reſidence,</hi> two Diſeaſes that have hitherto defied all Remedies, and have been rather che<g ref="char:EOLhyphen"/>riſh'd by our ſpiritual Phyſicians, than any thing effectual attempted towards the Cure of them; and no wonder when many of the ſame Men were the Patients that ſhould have been the Phyſicians; ſo hard it is to redreſs theſe grand Evils in a Synod where the greateſt Pluraliſts and Non-Reſidents do commonly make up the major Vote; and yet theſe are ſo notorious Ble<g ref="char:EOLhyphen"/>miſhes in a Church, that even the Council of <hi>Trent</hi> could not for very Shame but take notice of them. And the Truth is, though they have in their beſt Decrees of Reformation left a Hole to creep out by Virtue of Diſpenſations, yet their Canons are far more ſtrict than ours: for in their Decree of Refor<g ref="char:EOLhyphen"/>mation, <hi>Seſſ.</hi> the 7th. <hi>cap.</hi> 2d. they forbid any Prelate, having more Metro<g ref="char:EOLhyphen"/>politan or Cathedral Churches than one in <hi>Commendam,</hi> accounting him happy that can govern <hi>one</hi> well. And <hi>cap.</hi> 3d. They enjoyn the Collation of infe<g ref="char:EOLhyphen"/>riour Eccleſiaſtical Benefices that have Cure of Souls, on worthy and able Per<g ref="char:EOLhyphen"/>ſons who may reſide on the Place, and take care of the Flock themſelves; and by the 3. deprive that Clergy-man of all his Benefices that retains more than one, whether by way of Union for Life, or perpetual <hi>Commendam,</hi> or any other Title, <hi>&amp;c.</hi> only all theſe good Canons are ſpoiled, and by the wretched Art of Diſpenſations made only a more ſubtle Trick of drawing Money into the Pockets of thoſe that grant them. And <hi>Seſſ.</hi> 23d. <hi>cap.</hi> 1. Their Decree of Reformation againſt <hi>Non-Reſidents</hi> begins thus: <hi>Since all to whom the care of Souls is committed, are enjoyned by Divine Precept to know their Sheep, to offer Sacrifice for them, and to feed them with the Preaching of the Word of God, the Adminiſtration of Sacraments, and the Example of their good Works, to take a Fatherly Care of the Poor and all other miſerable People, and diſcharge other paſtoral Duties, all which can never be performed by thoſe that do not watch over and aſſiſt their Flock, but like Hirelings forſake them,</hi> &amp;c. See alſo <hi>Seſſ.</hi> 6. <hi>Cap.</hi> 1ſt, and 2d. and what they ſay is far more applicable to Pariſh-Churches than to Metropolitan or Cathedral.</p>
+               <p>But to return to our own Church: For <hi>Pluralities</hi> I find only this one Canon bout them, <hi>viz.</hi> 41.</p>
+               <pb n="37" facs="tcp:54299:21"/>
+               <p>
+                  <hi>No Licenſe or Diſpenſation for the keeping of more Benefices with Cure than one, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hall be granted to any, but ſuch only as ſhall be thought very well worthy for his Learning, and very well able and ſufficient to diſcharge his Duty,</hi> i. e. <hi>Who ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave taken his Degree of a Maſter of Arts at leaſt, in one of the <g ref="char:V">Ʋ</g>niverſities of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is Realm, and be a publick and ſufficient Preacher lice<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c'd;</hi> Provided always <hi>that he be, by a good and ſuffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i nt Caution, bound to make his perſonal Reſidence <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of his ſaid Benefices, for ſome reaſonable time in every Year; and that the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>id Benefices be not more than</hi> 30 <hi>Miles diſtant a ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der. And laſtly, That he have <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der him, in the Benefice where he does not reſide, a Preacher lawfully allow'd, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at's able ſufficiently to teach and inſtruct the People.</hi>
+               </p>
+               <p>A Canon that rather approves and ſtrengthens, than corrects ſo ſhameful an Abuſe. For what reſtraint can it be imagin'd to lay upon it? A Man needs to higher Qualifications to capacitate him for being a Pluraliſt, than that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e be a Maſter of Arts, and a lawfully approved Preacher. Here are no Bounds ſet to the Num<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of the Benefices he may enjoy, but that they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hould not ſtand above 30 Miles from one another; ſo that a Man may enjoy the ſame Number of Benefices, provided he can bring them within that com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſs of Miles. And I wiſh that the Avarice of ſome could be held within <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe wide Bounds too.</p>
+               <p>Nor is the <hi>reaſonable Time</hi> in which he muſt reſide yearly in every one of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em determin'd, but left to his own diſcretion.</p>
+               <p>And now what Apology can be made for ſo unreaſonable a practice? Let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſuppoſe a Pluraliſt to engroſs four or five good Livings to his own Share. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he beſt Reſtriction laid on him by this Canon is, That he keep in every living, where he reſides not, an approved Preacher that may profitably each and inſtruct the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople But if theſe four Preache<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s that ſupply his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ace in four of the Pariſhes, be Men of thoſe Abilities that fit them for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſcharging all the Duties of their Function to the People, what tolerable <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon can be given why they ſhould not enioy all the encouragement to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir Labour which the Pariſh-Tyths were deſign'd to give them? Why <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ould the main part of the Profits of four Pariſhes be ſwept away by an <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Drone of a Pluraliſt, that <hi>ſaunters</hi> about in his Coach, and ſwims in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>xury and Eaſe, but never took the leaſt care of them, unleſs perhaps <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce in a Year to give them a kind of <hi>Viſitation-Sermon;</hi> while the poor Miniſters that reſide among them, and beſtow all their pains and time upon <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em, ſcarce earn their Bread with the ſweat of their Brows, but ſtruggle <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>der thoſe Diſcouragements of a ſtingy Allowance that ſtarve their Parts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſink their Spirits, and too often put them on doing thoſe things which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nder them mean and contemptible. For by that time a poor Curate has pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ded Bread for his Family, and perhaps a Gown and Caſſock for himſelf, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t of his 20 or 30 <hi>l. per. Annum,</hi> he'l find very little left for the encreaſe of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ſlender Library, and much leſs for thoſe Works of Charity, whereby he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ould keep up that Eſteem and Intereſt in the Hearts of the People, that's <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> highly conducive to the ſucceſs of his Inſtructions upon them. So that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hile the Number of Pluraliſts is ſo great, and their Covetouſneſs far grea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r, it cannot be expected where the <hi>Salary</hi> they allow is ſo <hi>deſpicable,</hi> that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey ſhould ever provide for ſome of their Cures any better Prieſts than <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe of <hi>Jeroboam,</hi> made of the meaneſt of the People; ſuch as may thank God that our Church has furniſhed them with a Liturgy, and ſome of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earned Clergy with Sermons for every Sunday of the Year. And what
+<pb n="38" facs="tcp:54299:22"/> Account will ſuch <hi>mercenary</hi> Paſtors (as the Council of <hi>Trent</hi> it ſelf calls them) give to the univerſal Biſhop and Shepherd of thoſe Flocks whom they have ſtarv'd to fill their own Purſes? Or whence can the greedy Hu<g ref="char:EOLhyphen"/>mour of heaping up ſo many Steeples ſpring, but from that wretched inſa<g ref="char:EOLhyphen"/>tiable <hi>Love of Mony,</hi> which is ſo unbecoming a Clergy-man, who pretends a Concern for the Salvation of Souls, and therefore ſhould not gratify his filthy Lucre at the price of their Blood?</p>
+               <p>We are ſo far from ſpeaking this, as grudging the Clergy the juſt En<g ref="char:EOLhyphen"/>couragement of their Labours, that if a more fair and juſt diſtribution of the legal Maintenance would not ſufficiently provide for all, we ſhould think it worthy the pious Zeal of his Majeſty, and the Parliament, to find out way<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ſupplying that Defect. But in the mean time, as the Difference of the Value of Benefices will have room enough to reward the different Abili<g ref="char:EOLhyphen"/>ties of the Clergy, ſo we cannot but regret it, that the greateſt Load of exceſſive Preferments is uſually heapt, not on thoſe that deſerve, but on thoſe that ſeek them. The importunate Ambition of the latter putting them on thoſe baſe Methods to compaſs their Deſign, which the Probity, as well as the Modeſty, of the former debar them from.</p>
+               <p>Having ſaid ſo much about Pluralities, we ſhall be more brief on the o<g ref="char:EOLhyphen"/>ther Head of <hi>Non-reſidence.</hi> We ſhall not inſiſt on the 42, 43, 44. Canons which relate to the Deans, Prebends and Canons in the ſeveral Cathedrals and Collegiate Churches, becauſe thoſe concern the Clergy more than us. Only we cannot but commend the great Care of our Church in its injunction to the Deans, who muſt providently ſee that the Petty-Canons, Vicars-choral, and other Miniſters of the Church, have a <hi>Latin</hi> as well as Engliſh <hi>Teſtament.</hi> We ſuppoſe this Caution was, leſt the lazy Fellows ſhould for<g ref="char:EOLhyphen"/>get all they had learned at School; and <hi>Greek,</hi> it ſeems is as little expect<g ref="char:EOLhyphen"/>ed from them as Syriack or Arabick.</p>
+               <p>The 45 enjoyns the Reſident Clergy <hi>one</hi> Sermon every Sunday, when they have not juſt Impediment. The 46 and 47 runs thus.</p>
+               <p n="46">46, <hi>Every Beneficed Man, not allow'd to be a Preacher, ſhall procure Sermons to be preach'd in his Cure once in every Month at the leaſt, by Preachers lawfully licens'd, if his Living in the Judgment of the Ordinary will be able to bear it. And upon e<g ref="char:EOLhyphen"/>very Sunday when there ſhall not be a Sermon preach'd in his Cure, he, or his Cu<g ref="char:EOLhyphen"/>rate, ſhall read ſome one of the Homilies preſcrib'd, or to be preſcrib'd by Authority, to the Intents aforeſaid.</hi>
+               </p>
+               <p n="47">47, <hi>Every Benefic'd Man licens'd by the Laws of this Realm, upon urgent oc<g ref="char:EOLhyphen"/>caſions of other Service not to reſide upon his Benefice, ſhall cauſe his Cure to be ſup<g ref="char:EOLhyphen"/>plied by a Curat, that is a ſufficient and licens'd Preacher, if the Worth of the Bene<g ref="char:EOLhyphen"/>fice will bear it. But whoever has two Benefices, ſhall maintain a Preacher licens'd in the Benefice where he does not reſide, except he preach himſelf at both of them uſually.</hi>
+               </p>
+               <p>Theſe Canons, eſpecially the former, do ſo evidently expoſe themſelves, that they ſave us the labour of any long Remarks upon them. We cannot but think it ſtrange, that a Man may be the Incumbent of a Cure, and conſe<g ref="char:EOLhyphen"/>quently enjoy both the Name and the Revenues of a Miniſter to that People, who is not ſo much as <hi>licens'd to preach;</hi> nay, is ſo meer a Lay-man, that ac<g ref="char:EOLhyphen"/>cording to <hi>Can.</hi> 49. he muſt not take on him <hi>to expound, in his own Cure, or elſewhere, any Scripture or Matter of Doctrine:</hi> and the higheſt Priviledg allow'd him is, That he ſtudy to <hi>read plainly and aptly,</hi> (without <hi>glozing or adding</hi>) the <hi>Homilies</hi> already ſet forth, <hi>&amp;c.</hi> I perceive there may be <hi>Ignoramus Mini<g ref="char:EOLhyphen"/>ſters,</hi>
+                  <pb n="39" facs="tcp:54299:22"/> as well as <hi>Lawyers</hi> or <hi>Jury-men;</hi> and if our Church do not wrong them, by the ſevere reſtraints this Canon lays on them, they are more fit to be ſent to <hi>School</hi> to <hi>con</hi> their Leſſon, than into the Pulpit to inſtruct the People. But though we cannot admire the Wiſdom of our Church in allowing ſuch Men Benefices, yet we muſt acknowledg her great Charity towards them and their Curats, in providing ſo good a help as the Book of <hi>Homili<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> for thoſe whoſe <hi>Eyes</hi> are the only conſiderable Talents that God almighty has thought fit to bleſs them withal.</p>
+               <p>We ſhall add no more under this Head, but that we wiſh the <hi>Simoniacal Oath,</hi> were ſtrong enough to keep out all ſecret Arts of purchaſing Prefer<g ref="char:EOLhyphen"/>ments. And we think it highly adviſeable, that according to Arch-Biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s model, <hi>Artic.</hi> 2d. in every Rural Deanery, the Miniſters of particu<g ref="char:EOLhyphen"/>lar Pariſhes might be cenſurable for Errors, or groſs negligence in their Of<g ref="char:EOLhyphen"/>fice, <hi>&amp;c.</hi> with Liberty of Appeals to a Dioceſan Synod if need be.</p>
+               <p>But that the Clergy may not think us in theſe two Articles too ſevere on them, and partial to our ſelves, we ſhall propoſe it to the Wiſdom of this Convocation, Whether the Power of <hi>Patrons</hi> in preſenting to Livings, ſhould not be ſo far reſtrain'd, as not to impoſe a Miniſter on any Pariſh, without their own conſent? The very Learned Biſhop of <hi>Salisbury,</hi> in his <hi>Regalia,</hi> as well as others, hath made it undeniably evident, that this was the practice of the Univerſal Church for 600, if not 1000 Years after our Saviour's Time. And therefore tho we would have ſo much regard paid to the Charity of our Anceſtors, as not to exclude Patrons from a Privilege enjoy'd on that ſcore by ſo long Preſcription, yet we could be heartily glad that 'twere rendred con<g ref="char:EOLhyphen"/>ſiſtent with this Ancient Privilege of the People too, that the Primitive Pra<g ref="char:EOLhyphen"/>ctice in this Particular might be reviv'd. If indeed the Parſon alone were to be ſav'd or damn'd, not only for himſelf but his Pariſhioners too, 'twere no great matter to the People who he be; but if they muſt anſwer for their own Souls, 'tis but reaſonable they ſhould be ſatisfied whom they truſt with the conduct of them.</p>
+               <p>And how liberally ſoever Patrons have endow'd any Churches, 'twere but a hard Bargain they make with the People, to require them, by implicit Faith, to acquieſce in whatever Miniſters they or their Heirs ſhall ever recommend to them.</p>
+               <p>Nay, ſome would not have Patrons impoſe on our Clergy, any more than on the People. There are ſeveral ſecret ways of purchaſing a Benefice, which ſome Patrons oblige the Clergy to, without making a down-right Bargain: And we would not have ſo much as the courting an <hi>Abigal</hi> to be the price of it.</p>
+            </div>
+            <div type="part">
+               <head>Of Reforming Manners in the People.</head>
+               <p>LEST the Fear and Apprehenſion into which the words <hi>Alteration</hi> and <hi>Re<g ref="char:EOLhyphen"/>view</hi> have caſt the Author of <hi>Vox Cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri,</hi> ſhould be fatal to him, we ſhall now labour to recover him, by aſſuring him, that there are ſome of the old Canons we deſire may be reinforc'd, and that the Subjects to which they relate may be conſidered and examined, <hi>viz.</hi> Such as order the Cenſures of the Church to be inflicted upon all Perſons notoriouſly wicked, that they may be hindred from coming to the bleſſed Sacrament with ſuch Frequency, and in ſuch Numbers as they now ordinarily do; particularly <hi>Can.</hi> 26. which runs thus. <hi>No Miniſter ſhall in any wiſe admit to the receiving the Holy Communion any of his
+<pb n="40" facs="tcp:54299:23"/> Cure or Flock, which be opennly known to live in notorious Sin, without Repentance; nor any who have maliciouſly and openly contended with their Neighbours, until they ſhall be reconciled: Nor any Church-Warden or Side-man who having taken their Oaths to preſent to their Ordinary all ſuch publick Offences as they are particularly charg'd to enquire of in their ſeveral Pariſhes, ſhall (notwithſtanding their ſaid Oaths, and that their faithful Diſcharge of them, is the chief means whereby publick Sins and Offences may be reform'd and puniſh'd) wittingly and willingly, deſperately and irreligi<g ref="char:EOLhyphen"/>ouſly incur the horrible Crime of Perjury, either in neglecting or in refuſing to preſent ſuch of the ſaid Enormities and publick Offences as they knew themſelves to be committed in their ſaid Pariſhes, or are notoriouſly offenſive to the Congregation there: although they be urg'd by ſome of their Neighbours, or the Miniſter, or by their Ordinary himſelf to diſ<g ref="char:EOLhyphen"/>charge their Conſciences by preſenting them, and not to incur ſo deſperately the ſaid horri<g ref="char:EOLhyphen"/>ble Sin of Perjury.</hi> We do now humbly requeſt that according to this Canon ſome effectual Proviſion may be made to hinder all ſuch wicked Perſons from our Communion, which are a Scandal and Reproach to any Church, much more to ours. That the Matter may be ſeriouſly debated and weighed, and whether more proper Methods than thoſe hitherto reſolv'd on may not be found out and ſettled. For to ſpeak on the behalf of the Laity, as the impo<g ref="char:EOLhyphen"/>ſing ſuch a Task on us or the Church-Wardens, is very hard and ſevere, ſo it hath been unſucceſsful to the Purpoſe for which it was intended, and is likely always to prove ſo, though the Canon ſays that the Church-Wardens and Sides<g ref="char:EOLhyphen"/>mens faithful Diſcharge of their Oaths in preſenting Offenders to the Ordinary, is the <hi>chief</hi> means whereby Publick Sins and Offences may be reform'd and puniſhed. For it cannot be probably expected that they ſhould diſcharge this Office with that Fidelity and Care which is requiſite in a Buſineſs of ſuch Im<g ref="char:EOLhyphen"/>portance: If we conſider either the manner of their preſent choice, the Multiplicity of ſecular Affairs in which they are unavoidably ingag'd, the Temptations to which they may be expoſed either by Neighbourhood, Ac<g ref="char:EOLhyphen"/>quaintance, Friendſhip, or Dependance upon others; and not to mention the ſmall Reverence which is paid to Oaths by the Generality of Perſons in this diſſolute Age, which ought to be conſidered; nor the Tricks of waving the taking them, which the Corruption of our Spiritual Courts hath ſupplied us with; it cannot be imagin'd but that while Men are called to this Office by turns, and the worſt as well as the beſt Pariſhioners are choſen to it, and while Men are govern'd by their worldly Intereſt, either no Preſentations at all ſhould be made, or thoſe that are ſhould be <hi>Omnia B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne.</hi> Beſides, ſhould theſe Lay-Officers be Perſons of Sobriety and Integrity, and out of Regard to their Oaths, the Peace of their own Conſciences, and the good Comfort of their Chriſtian Neighbours, make exact and juſt Preſentations, yet according to our preſent Conſtitution they are bound to carry them into the Spiritual Courts; and what becomes of them when they are lodg'd there, all the World knows; inſtead of impoſing ſuitable Penances, Money ſhall be extorted by a Body of Men who have already ſhew'd us, that they can ſet Indulgences to ſale, and that they are willing Men ſhould ruin their own Souls, and go very quietly to Hell provided they will pay them <hi>tole</hi> for their Paſſage. We are therefore of the opinion that the preſent Convocation ſhould conſider whether the Inſpection into the Manners of the People ſhould not be intruſted ſolely with the Miniſters and Prieſts, and this determin'd and judg'd to be one part of the paſtoral Care; whether it be not now abſolutely neceſſary to authorize and impower all Miniſters and Curates to obſerve the Lives of their Pariſhio<g ref="char:EOLhyphen"/>ners
+<pb n="41" facs="tcp:54299:23"/> to admoniſh them privately and publickly, to pronounce the Cenſures of the Church, either of Suſpenſion or Excommunication, according to their ſeveral Lives and Offences; they may be appointed to do all this in Subordination to the Biſhop or the Ordinary; though we think 'tis requiſite the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould be exempted from the Juriſdiction of the Spiritual Courts; they may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſtill a <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the Biſhop, and be obliged to acquaint him with the Reaſons and manner of their Pro<g ref="char:EOLhyphen"/>ceedings, and be liable to be puniſh'd by him, if they either miſ-beh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve them<g ref="char:EOLhyphen"/>ſelves, or neglect their Duty. Let this Authority and Power be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſted in them in ſuch a Subordination, and let it be declared and eſteem'd as an eſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntial Branch of the Paſtoral Office, and in our Apprehenſions it will be a more effectual way to redreſs this Diſorder than the other. That which ſuggeſts and incourages this Pro<g ref="char:EOLhyphen"/>poſal is our Communion-Rubrick, which requires all Perſons that intend to com<g ref="char:EOLhyphen"/>municate, to ſend in their Names to the Curate, and orders him to admoniſh thoſe that are unfit, that they ſhould not preſume to come. Now if this were duly ob<g ref="char:EOLhyphen"/>ſerved, and the Curates likewiſe impowered to reject ſuch as ſhall, notwithſtand<g ref="char:EOLhyphen"/>ing their Admonition, dare to preſent themſelves, and to pronounce either a Sen<g ref="char:EOLhyphen"/>tence of Suſpenſion or Excommunication againſt them; we conceive that this will be a more proper and effectual Method to preſerve our Communions pure, than that other of committing it to the Church-Wardens, who are too often careleſs and unconcern'd about a matter of ſuch a Spiritual Nature, or ſuch as deſerve to fall under the Cenſures of the Church themſelves. It will be no hard Matter for the Convocation to fix and ſettle this Authority and Power, that the Curates ſhould be inveſted with its juſt Bounds and Limits; This we propoſe with all Humility to Perſons, that by their Sagacity and Wiſdom may ſoon find out better Ways than we are able to do. But that which we earneſtly and importunately requeſt is, that ſince his Majeſty hath put an Opportunity into their Hands, of reviewing the old Canons and making new, that they would reſolve upon ſome courſe for the pre<g ref="char:EOLhyphen"/>venting Men of the moſt profligate Lives and Principles from joyning themſelves to our Communion, and partaking of the moſt Holy Sacrament; and we hope the Author of <hi>Vox Cleri</hi> and others of the ſame ſtamp, will not charge us with a De<g ref="char:EOLhyphen"/>ſign of pulling down the Houſe, ſince we only demand that theſe Spiders which have filled every Corner of it with their Cobwebs and Venome, may be ſwept out, and are willing th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Beſom with which it is to be done ſhould be put into the Hands of our Prieſts and Clergy. The Reaſons of our Requeſt are ſuch as theſe.</p>
+               <p n="1">1. Becauſe according to the Doctrine of our Church theſe Perſons have no Right at all to partake of the Sacrament, and to celebrate theſe Holy Myſteries;<note place="margin">R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> for ſhe appoints the Curate <hi>to advertiſe and admo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſh ſuch as theſe t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t in any w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y preſum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not to come:</hi> In her Exhortation ſhe tells us that it is to be admi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> only to thoſe <hi>who are devoutly and religiouſly diſpoſed,</hi> and that if any who do not repent of their Sins, and live in them without Amendment, do come, the Communion does <hi>nothing elſe but increaſe their Damnati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>:</hi> And we are told that Perſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> live in Variance and Contention, or in any known Sin,<note place="margin">
+                     <hi>Q.</hi> Elizab. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> muſt not be admit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>uſe tis contrary to the Communion of the Body and Blood of Chriſt: So that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe 'Men are really Intruder<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and thruſt themſelves as Gueſts to our moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly Tables, contrary to the expreſs Commands of the Church; and when we deſire that they may be caſt out, 'tis no way injurious or prejudicial to them, but tends to their Benefit and Advantage: 'tis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s charitable and juſt, as to ſnatch a Cup of Poiſon out of the Hands of a Mad man, who is boldly going to drink it.</p>
+               <p n="2">2. The admitting ſuch Perſons to the Sacrament is a very high Incouragement to
+<pb n="42" facs="tcp:54299:24"/> the Debauchery and Wickedneſs that now reigns among us: when theſe ſhall have as free an Acceſs to this Holy Table as Perſons of the higheſt Sobriety and Vertue, when they ſhall ſhelter themſelves under our very Altars, and none have any Power or Commiſſion to pluck them from thence, what can be expected but that Impi<g ref="char:EOLhyphen"/>ety and Profaneſs ſhould overflow us as a mighty Stream? They have already learn<g ref="char:EOLhyphen"/>ed to ſtop the Mouths of their own Conſciences and our Mouths too, when we offer to rebuke them, by ſaying that they are good Chriſtians, and Members of the Church as well as we; they perſwade themſelves that their being of our Church here doth give them an undoubted Title to a Place among the Aſſembly of the Firſt-born, and while they have ſuch Apprehenſions as theſe, we muſt expect they ſhould in<g ref="char:EOLhyphen"/>dulge themſelves in all manner of Immoralities; and now ſhall the Holy Sacra<g ref="char:EOLhyphen"/>ment be proſtituted to countenance and incourage ſuch fatal Preſumptions as theſe, to ſtrengthen the Hands of the Vile, and cauſe them to commit Sin with all imagi<g ref="char:EOLhyphen"/>nable Boldneſs and without any Remorſe? Shall we turn the Cup of the Blood of Chriſt into the Cup of Devils, as the Apoſtle expreſſes it in 1 <hi>Cor.</hi> 10.21. not only by permitting thoſe who offer up themſelves as Sacrifices to the Devil to drink of it, but by making it as effectual to the promoting the Intereſt of Satan, as though he himſelf had really inſtituted it?</p>
+               <p n="3">3. Becauſe ſuch a Practice as this tends to the increaſing the Numbers of the Diſſenting Conventicles. For though they are not without faulty Members as well as we, yet it muſt be confeſs'd that they are very careful to keep or purge out all that are openly ſcandalous in their Lives. We indeed excel them in our Epiſcopal Government, the Decency and Order of our Worſhip, in the Numbers of ſober and learned Clergy; but in this particular we are more defective than they, there is not ſo much of this unhappy Leaven among them, as there is among us; ſo that many Perſons of ſtrict Piety, who are burden'd and griev'd with this Diſorder, will be tempted to deſert us and join with them; and they being not acquainted with the Diſtinctions of learned Men, will be more eaſily led into ſuch an Error; and if a ſpeedy Reformation be not made in this Matter, we muſt expect the Numbers of thoſe who are the greateſt Ornaments of our Communion, out of a pretended Concern for their Edification, will leave us. For,</p>
+               <p n="4">4. We muſt now ackowledg and declare that the Admiſſion of ſuch as theſe ve<g ref="char:EOLhyphen"/>ry much hinders our Edification, and makes us take <hi>the Holy Sacrament with much leſs Joy and Comfort</hi> than wee might otherwiſe do. As we belong to a Church that not only recommends the moſt inlarged Charity, but is celebrated for it, ſo we hope we are not without ſome Meaſures of that Love to God and the Souls of Men, which ſhe requires in all her Communicants; and being influenc'd by this we can<g ref="char:EOLhyphen"/>not with unconcern'd Eyes and Hearts behold theſe Men at once profane the Name of God, and eat and drink Damnation to themſelves, <hi>i. e.</hi> as our Church explains it, <hi>Diſeaſes, Death, and the Wine of God's Wrath.</hi>
+               </p>
+               <p>
+                  <note place="margin">Exhort. bef. the Commun.</note>'Tis with a great and ſincere Sorrow that we obſerve Perſons guilty of the higheſt Impurities allowed to come to the Holy Communion, who ought to be driven from it. Our Peace and Benefit would be much greater in our Approaches to it, if we did not find there ſome who but a few Hours before were venturing their Lives in the Quarrel of a Strumpet; others who ſpent the laſt Night in Revelling and Drun<g ref="char:EOLhyphen"/>kenneſs, and when they joyn themſelves to us, ſeem to take us for a Crew of merry Companions; others that juſt before the Communion were belching out Oaths and Curſes, and ſoon after the end of it will pour out whole Vollies of them again, <hi>&amp;c.</hi> And if there were none allowed to kneel there, but ſuch as were ſober and vertu<g ref="char:EOLhyphen"/>ous, devoutly and religiouſly diſpoſed. We muſt therefore be excuſed, if after ſo
+<pb n="43" facs="tcp:54299:24"/> long a ſilence we take the liberty to expreſs our Reſentments in this Matter, and to declare that we do, with a very paſſionate Grief, ſee the Holy Bread and Wine touch'd by ſuch polluted Hands, and unhallowed Mouths, eſpecially when we ſear and expect, that after the taking of theſe, (according to the Threatning denoun<g ref="char:EOLhyphen"/>ced by our Church) <hi>The Devil ſhould enter into them as he did into</hi> Judas, <hi>to fill them full of all Iniquities, and bring them to deſtruction, both of Body and Soul;</hi>
+                  <note place="margin">Exhort. be<g ref="char:EOLhyphen"/>fore the Communion.</note> And we would add, that while we have a warm and zealous regard to the Honour of God Almighty and his Sacraments, and the Good of others, we ſhall have the ſame ſenſe and apprehenſions.</p>
+               <p>But to conclude this Subject, that our preſent Convocation may be ſtirred up to a more vigorous Zeal and Diligence in the framing new <hi>Penitentiary</hi> Canons, or reforming the Old, we would with all modeſty and ſubmiſſion remind our Fathers and Guides, now aſſembled, of the Promiſes they made at their ſeveral Ordina<g ref="char:EOLhyphen"/>tions, and of the ſolemn Charge they received from our Church; which is in theſe words; <hi>Wherefore conſider with your ſelves the End of your Miniſtry towards the Chil<g ref="char:EOLhyphen"/>dren of God, towards the Spouſe and Body of Chriſt,</hi>
+                  <note place="margin">Form of ordering of Prieſts. <hi>Sparrow. p. 125.</hi>
+                  </note> 
+                  <hi>and ſee that you never ceaſe your La<g ref="char:EOLhyphen"/>bour, your Care and Diligence, until you have done all that lieth in you, according to your bounden Duty, to bring all ſuch as are, or ſhall be committed to your Charge, unto that agreement in Faith and Knowledg of God, and to that ripeneſs and perfectneſs of Age in Chriſt, that there be no place left among you, either of Error in Religion, or for viciouſneſs of Life.</hi> And ſince we ſhall not entertain a ſuſpicion of their readineſs to diſcharge their Offices with the utmoſt fidelity, of their willingneſs to pay a chearful Obe<g ref="char:EOLhyphen"/>dience to the Commands of our common Mother, we will not queſtion their gra<g ref="char:EOLhyphen"/>tifying our Deſires in this Particular.</p>
+            </div>
+            <div type="part">
+               <head>Of the Examination of ſuch Perſons as deſire to be admitted into Holy Orders, both as to their Learning and Manners.</head>
+               <p>'TIs the unhappy neglect of this, has not only over-ſtock'd our Church with a ſhoal of ſupernumerary Clergy, but given too many the opportunity of crouding in<g ref="char:EOLhyphen"/>to Holy Orders, whom their Parents only thruſt on the Service of the Church, becauſe they know not how to diſpoſe otherwiſe of them, And yet it muſt be own'd, that the Canons of our Church are not altogether chargeable with this Neglect: For the 35th Canon enjoins the Biſhop, before he admits any Perſon into Holy Or<g ref="char:EOLhyphen"/>ders, <hi>to examine him, in the preſence of thoſe Miniſters that ſhall aſſist him in the Impoſition of Hands; or at leaſt take care that the foreſaid Miniſters examine him if he have any lawful Impediment.</hi> We could heartily wiſh the Biſhop might accordingly do it more con<g ref="char:EOLhyphen"/>ſtantly himſelf, in the preſence of ſuch as aſſiſt at the Ordination, and not leave it ſo generally to the Arch-Deacon, or one of his Chaplains. And 'twere highly ad<g ref="char:EOLhyphen"/>viſeable that the particular Trials which every Candidate for Sacred Orders muſt paſs, in order to give a good Specimen of his Proficiency in Humane Learning, and eſpecially in the ſtudy of Divinity, were preſcrib'd. For it can by no means be thought a ſufficient Evidence of a Man's being qualified for that Sacred Function, that he can conſtrue a piece of the Latin Teſtament; and reſolve that grand Queſtion of <hi>Quot ſunt Symbola?</hi> &amp;c. The admirable care of many Foreign Churches, particularly the Reformed Churches in <hi>France,</hi> about the admiſſion of their <hi>Propoſants,</hi> is a very commendable Pattern. And even in this Point, the <hi>Directo<g ref="char:EOLhyphen"/>ry</hi> (how idle a Book ſoever it may be in other things) has the advantage of any thing preſcrib'd in this Canon, which is too làx and general. And we would ſurther offer it to conſideration, Whether what the 34th Canon enjoins in the Caſe of a Biſhop's ordaining a Man that is not of his <hi>own Dioceſs,</hi> ſhould not hold alſo in his
+<pb n="44" facs="tcp:54299:25"/> ordaining thoſe that are? <hi>viz.</hi> That he ordain no Perſon but ſuch as ſhall exhibit <hi>Letters Teſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nial of his good Life and Converſation, under the Seal of ſome Colledg in</hi> Cambridg <hi>or</hi> Oxford, <hi>where before he remain'd; or of three or four grave Miniſters, toge<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with the Subſcription and Teſtimony of other credible Perſons, who have known his Life and Behaviour by the ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of three <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ears next before.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <head>The CONCL<g ref="char:V">Ʋ</g>SION.</head>
+            <p>HAving thus paſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d thro' the ſeveral Heads mention'd in his Majeſties Commiſ<g ref="char:EOLhyphen"/>ſion, and wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſign, <hi>viz.</hi> for the advancing the Honour and Service of Almighty God, for the Good and Quiet of the Church, and for the better go<g ref="char:EOLhyphen"/>vernment of it; we do not doubt but the Propoſals we have made, if attended to by the Convocati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will have ſuch an Iſſue. And we hope we ſhall not be cenſur'd for invading the Prieſt's Office in what we have done. A Man needs not the <hi>indeli<g ref="char:EOLhyphen"/>ble Character</hi> to do the Offi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of a <hi>Sexton,</hi> ſweep the Duſt and Filth out of the Church, and laſh <hi>T bit</hi>'s Dog out of the Sanctuary; and that is what we have de<g ref="char:EOLhyphen"/>ſign'd. And if in ſo doing, we have chanced here and there to give ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> late Au<g ref="char:EOLhyphen"/>thors <hi>a lick</hi> or two, they are only ſuch as have officiouſly ſheltred him under their Legs. For tho we will allow him to be as good a <hi>Moral Cur</hi> as his late zealous Apolo<g ref="char:EOLhyphen"/>giſt can deſire, and to have l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arned the 5th Commandment, (<hi>for,</hi> ſaith he,<note n="*" place="margin">Remarks on the two Letters to the Convo<g ref="char:EOLhyphen"/>cation, <hi>p. 12.</hi>
+               </note> 
+               <hi>he was faithful, and loved his Maſter</hi>) yet we would not have the Fanaticks think, he is a Member of our Church, or that our Congregations are ſo thin, even on a <hi>Week<g ref="char:EOLhyphen"/>day,</hi> (when, ſays he, he only appears there) that we ſhould need his Company to encreaſe them. We have, in our own Apprehenſions, conſulted the Honour and Service of Almighty God, ſince what we deſire tends to the more pure and orderly celebrating of his Worſhip, to the removal of thoſe abuſes which are as provoking to him, as they are diſpleaſing to us; and may incline him who hath hitherto, by many Mira<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les of Mercy and Power, defended and preſerv'd us, to give us yet more ſignal teſtimonies of his Favor and Bounty. And that we have aim'd at the Good and Quiet of the Church is likewiſe as evident; ſince what we propoſe will render her Offices leſs liable to the Exceptions of our Adverſaries, and more profitable to us, will increaſe her Purity and Splendor, will add to the number of her ſober and pious Members, will make her Government more con<g ref="char:EOLhyphen"/>formable to the Primitive Pattern, and eſtabliſh it on more laſting and ſolid Foundations, and free her Children from many of the preſſing Grievances they groan under. And therefore we hope that ſo favourable an Opportunity which his Majeſty preſents the Convocation with, will not be neglected, a Prince, who by his great Vertues is the Glory of our Church as well as the <hi>Head</hi> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Defen<g ref="char:EOLhyphen"/>der of it, and whoſe excellent Wiſdom and Judgment ſhould be <hi>alone</hi> a ſuffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient Ar<g ref="char:EOLhyphen"/>gument to weigh with us, tho there were no other, as there are many more to induce us to make our Reformation more perfect and compleat.</p>
+            <p>To ſum up <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll; If his Majeſties Deſires, and ours, be now comply'd with, the Church of <hi>England</hi> may ſtand and flouriſh as the Envy and Glory of all the Reformed Churches, impregnable to the feeble Attacks of her Enemies, and be a<g ref="char:EOLhyphen"/>dorn'd with a very great Purity and Brightneſs; but if they be ſcorn'd and de<g ref="char:EOLhyphen"/>ny'd, we may juſtly expect to fall under an indelible Infamy and Reproach, to have our Strength an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Numbers l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſen'd and abated, to be cruſh'd by the Artifices and Deſigns of our ſtrong and numerous Adverſaries, and to have <hi>our Church,</hi> and all <hi>the Abuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> which remain in her taken away together, by ſome Revolution that we loo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed not for.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
